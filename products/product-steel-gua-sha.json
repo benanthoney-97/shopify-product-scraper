@@ -1,0 +1,51 @@
+{
+  "url": "https://puresport.co/products/steel-gua-sha",
+  "handle": "steel-gua-sha",
+  "id": 6978008842378,
+  "title": "Premium Steel Gua Sha Massage Tool",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "balmfreeze",
+    "cbd-topical",
+    "pain-recovery",
+    "recovery-relief",
+    "salecollection",
+    "SHOP BY CATEGORY_PAIN + MUSCLE RECOVERY",
+    "SHOP BY INGREDIENT_CBD",
+    "SHOP BY TYPE_CBD-TOPICAL",
+    "Supplement",
+    "under-90",
+    "Ygroup_guasha"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/PREMIUMSTEELGUASHUAMASSAGETOOL1.jpg?v=1704447387",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_3.jpg?v=1743018468"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/PREMIUMSTEELGUASHUAMASSAGETOOL1.jpg?v=1704447387",
+  "variants": [
+    {
+      "id": 41589257961610,
+      "title": "Default Title",
+      "sku": "PSA-GUASHA-STEEL",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

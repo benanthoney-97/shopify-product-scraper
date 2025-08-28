@@ -1,0 +1,209 @@
+{
+  "url": "https://puresport.co/products/ultra-magnesium",
+  "handle": "ultra-magnesium",
+  "id": 7850747232394,
+  "title": "Ultra Magnesium",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "100% Natural",
+    "3rd Party Lab Tested",
+    "ashwagandha",
+    "Capsules",
+    "filter:Recovery",
+    "filter:Sleep",
+    "has_free_item",
+    "nootropics",
+    "Recovery",
+    "sleep",
+    "Supplement",
+    "YGroup_Magnesium"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_1.jpg?v=1751836811",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraMagnesium.jpg?v=1751836811",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraMagnesium2.jpg?v=1751836811",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_8.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_6.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_5.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_7.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_9.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_10.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_3.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_4.jpg?v=1753028177",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_2.jpg?v=1753028177"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_1.jpg?v=1751836811",
+  "variants": [
+    {
+      "id": 44022057566346,
+      "title": "1 Jar",
+      "sku": "PSC-ULTMAGNESIUM-90",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015791401",
+      "options": [
+        "1 Jar"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Ultra Magnesium is designed to support recovery, sleep, muscle function, and overall energy metabolism. It contains a blend of three bioavailable forms of magnesium—Magnesium Citrate, Magnesium Bisglycinate, and Magnesium Taurate—paired with Beetroot Extract for enhanced athletic performance."
+    },
+    {
+      "heading": "Why we Made this Product",
+      "body": "Magnesium plays a crucial role in over 300 biochemical reactions in the body, including muscle function, energy production, protein synthesis, and reducing fatigue. Athletes, especially those engaged in high-intensity activities, are often at risk of magnesium deficiency. Ultra Magnesium helps to optimise recovery, maintain electrolyte balance, and improve sleep quality—essential elements of long-term athletic performance."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Magnesium Citrate 110mg\nMagnesium Bisglycinate 95mg\nMagnesium Taurate 20mg\nBeetroot Powder (Beta vulgaris) 1000mg\nVitamin D3 (Cholecalciferol from algae) 10µg"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "For optimal results, take 3 capsules daily. For improved exercise performance, consume Ultra Magnesium 1 hour before exercise to enhance strength and endurance."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries"
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710925320579",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      }
+    ],
+    "ongoing": [
+      "2 Jars, Shipped Bi-Monthly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

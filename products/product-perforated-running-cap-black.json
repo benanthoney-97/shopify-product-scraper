@@ -1,0 +1,60 @@
+{
+  "url": "https://puresport.co/products/perforated-running-cap-black",
+  "handle": "perforated-running-cap-black",
+  "id": 15200375767427,
+  "title": "Perforated Running Cap - Black",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "Archive Drop",
+    "Cap",
+    "filter:Caps",
+    "hidden",
+    "live",
+    "YGroup_Cap"
+  ],
+  "price_from_cents": 3000,
+  "price_from": "£30.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Running_Performance_Caps.jpg?v=1755688773",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Running_Performance_Black_Cap.jpg?v=1755688795",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Run_Cap_for_Performance.jpg?v=1755688825",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_caps8.jpg?v=1755688606",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_caps12.jpg?v=1755688606",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_April_4725f4b8-4c2e-4251-8ae9-1a3dbfc72292.jpg?v=1755688530",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PerformanceCaps12_efb91e58-5806-44ef-82ca-c5cf2dec5b88.jpg?v=1755688530",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps_10.jpg?v=1755688530",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps_9.jpg?v=1755688530"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Running_Performance_Caps.jpg?v=1755688773",
+  "variants": [
+    {
+      "id": 55479844012419,
+      "title": "One Size",
+      "sku": "PSM-PURESPORT-TRAIL-CAP-BLK",
+      "available": true,
+      "price_cents": 3000,
+      "price": "£30.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798035",
+      "options": [
+        "One Size"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Crafted from high-quality, 100% nylon, this ultra-lightweight and water-repellent cap is built for performance—ideal for training, race day, or recovery. Re-engineered with laser-cut perforated panels to enhance airflow and cooling across key heat zones. Guided by principles of human thermoregulation, these areas deliver targeted ventilation to help regulate temperature and keep you cool during movement. An adjustable toggle system ensures a secure, personalised fit that stays in place without compromising comfort. Finished with our iconic Puresport branding for a clean, performance-led finish."
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Tumble Dry\n                                Do Not Bleach"
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

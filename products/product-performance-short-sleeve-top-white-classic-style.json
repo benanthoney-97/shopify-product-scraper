@@ -1,0 +1,137 @@
+{
+  "url": "https://puresport.co/products/performance-short-sleeve-top-white-classic-style",
+  "handle": "performance-short-sleeve-top-white-classic-style",
+  "id": 8194071855242,
+  "title": "Performance Short Sleeve - White",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "apparelsale",
+    "filter:Tops & T-shirts",
+    "live",
+    "Tops & T-shirts",
+    "YGroup_performanceshort"
+  ],
+  "price_from_cents": 7000,
+  "price_from": "£70.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Run_Top_White_Unisex_Front.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Run_Top_White_Unisex_Back.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NewPerformanceHR3_3c16c886-3970-42b5-a6e1-8e03ab540b73.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/New_Performance_17.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/LifestylePerformance9.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NewPerformanceHR5_4d163f30-9944-4f48-b856-dfa86d6253a6.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NewPerformanceHR4_6c287dfe-50d2-4442-b6d1-73cb7a4d61b9.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/LifestylePerformance10.jpg?v=1755689502",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/LifestylePerformance8.jpg?v=1755689502"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Run_Top_White_Unisex_Front.jpg?v=1755689502",
+  "variants": [
+    {
+      "id": 45140745715850,
+      "title": "XS",
+      "sku": "PSM-PFORM-001-WHITE-XS",
+      "available": false,
+      "price_cents": 7000,
+      "price": "£70.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798929",
+      "options": [
+        "XS"
+      ]
+    },
+    {
+      "id": 45140745748618,
+      "title": "S",
+      "sku": "PSM-PFORM-001-WHITE-S",
+      "available": true,
+      "price_cents": 7000,
+      "price": "£70.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798936",
+      "options": [
+        "S"
+      ]
+    },
+    {
+      "id": 45140745781386,
+      "title": "M",
+      "sku": "PSM-PFORM-001-WHITE-M",
+      "available": true,
+      "price_cents": 7000,
+      "price": "£70.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798943",
+      "options": [
+        "M"
+      ]
+    },
+    {
+      "id": 45140745814154,
+      "title": "L",
+      "sku": "PSM-PFORM-001-WHITE-L",
+      "available": true,
+      "price_cents": 7000,
+      "price": "£70.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798950",
+      "options": [
+        "L"
+      ]
+    },
+    {
+      "id": 45140745846922,
+      "title": "XL",
+      "sku": "PSM-PFORM-001-WHITE-XL",
+      "available": true,
+      "price_cents": 7000,
+      "price": "£70.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798967",
+      "options": [
+        "XL"
+      ]
+    },
+    {
+      "id": 45140745879690,
+      "title": "XXL",
+      "sku": "PSM-PFORM-001-WHITE-XXL",
+      "available": true,
+      "price_cents": 7000,
+      "price": "£70.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798974",
+      "options": [
+        "XXL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Lightweight, breathable, and built to move with you. The short sleeve performance top is crafted from our Italian-milled Nylon/Elastane blend with natural 4-way stretch for a smooth fit and targeted ventilation.  Reengineered with ergonomically placed panelled perforation along the back and sides to enhance airflow where your body generates the most heat. The silhouette has been refined with a slightly longer body for improved coverage on the move.  Finished with a heat-transferred Puresport signature logo on the chest in black for a clean, minimal aesthetic.  Moisture-wicking and odour-resistant for all-condition comfort.  Built for breathability, designed For the Long Run."
+    },
+    {
+      "heading": "Key Features",
+      "body": "- Nylon / Elastane Blend\n- Ergonomically Placed Panelled Perforation\n- Moisture Wicking\n- Odour Resistant"
+    },
+    {
+      "heading": "Size Table",
+      "body": "Size (cm)\nXS\nS\nM\nL\nXL\n2XL\nLength\n64.5\n66.5\n68.5\n70.5\n72.5\n74.5\nChest\n51\n53\n55\n57\n60\n63\nShoulders\n42.5\n44\n45.5\n47\n48.5\n50\nSleeve\n22.5\n24\n25.5\n27\n28.5\n30"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnused items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

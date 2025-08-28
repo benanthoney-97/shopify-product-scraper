@@ -1,0 +1,79 @@
+{
+  "url": "https://puresport.co/products/vitamin-d3-trial-pack",
+  "handle": "vitamin-d3-trial-pack",
+  "id": 8311951622282,
+  "title": "Vitamin D3 + K2 Trial Pack",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "hidden",
+    "Supplement",
+    "YGroup_VitD3"
+  ],
+  "price_from_cents": 1000,
+  "price_from": "£10.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/2025_NewProductImages_TrialPacks2.jpg?v=1755022695",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_57_1.jpg?v=1755012945",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_58_1.jpg?v=1755012945",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_64_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_65_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_62_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/V2_Puresport_DrSam3.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_60_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_59_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_61_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_66_1.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Howto_4.jpg?v=1755032182",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Trial_Pack.jpg?v=1755014201"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/2025_NewProductImages_TrialPacks2.jpg?v=1755022695",
+  "variants": [
+    {
+      "id": 45548854739082,
+      "title": "1 Refill Bag",
+      "sku": "PSC-VITD3-REFILL-14CAPS",
+      "available": true,
+      "price_cents": 1000,
+      "price": "£10.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796109",
+      "options": [
+        "1 Refill Bag"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "This supplement is designed to support bone health, immune function, and cardiovascular health, featuring 4000 IU of Vitamin D3 sourced from marine algae and 100mcg of Vitamin K2. This formulation ensures optimal calcium absorption while promoting strong bones and a healthy heart. Suitable for vegans, this product is ideal for athletes looking to maintain peak performance."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "We created the Vitamin D + K2 supplement for athletes and individuals who may be deficient in these essential vitamins. Low Vitamin D levels can impact muscle recovery, bone strength, and immune function. With this product, we aim to ensure that athletes and active individuals are provided with a high-quality, plant-based Vitamin D3 and K2 formula, tailored for their needs."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Vitamin D3: 4000 IU\nVitamin K2 (MK-7): 100mcg\nHPMC (Empty Capsule Shell)\nBrown rice flour\nBamboo silica\nAllergen warning: may contain soya"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "For optimal results, take 1 capsule daily with water, preferably in the morning. Athletes should consider regular supplementation, especially during the winter months or periods of reduced sun exposure.\nOur Vitamin D3+K2 supplement is of higher strength (Vitamin D3 4000IU). If you find the 4000IU strength too high, you can opt to take them once every 2-3 days instead of daily. This approach can be effective because both Vitamin D3 and K2 are fat-soluble, meaning they can be stored in the body's fat tissues and liver for future use."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries"
+    }
+  ],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

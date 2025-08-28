@@ -1,0 +1,63 @@
+{
+  "url": "https://puresport.co/products/nalgene-bottle-smoke-grey",
+  "handle": "nalgene-bottle-smoke-grey",
+  "id": 8299166105738,
+  "title": "Nalgene Water Bottle - Smoke Grey",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Water Bottle",
+    "live",
+    "Water Bottle",
+    "YGroup_bottles"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel30.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IMG_4831_2.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/9_44005c47-4480-41a1-b060-a8250c393839.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/13.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/12.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/10.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/14.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/11.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/15.jpg?v=1755691299",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IMG_4835_2.jpg?v=1755691299"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel30.jpg?v=1755691299",
+  "variants": [
+    {
+      "id": 45496239653002,
+      "title": "Default Title",
+      "sku": "PSA-NALGENE-SMOKEGREY-1L",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796475",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Our iconic Salty Pace Nalgene bottle in classic Smoke Grey with White contrasting features. BPA free and dishwasher safe, this is a staple in any exercise and recovery routine."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- BPA/BPS Free\n- Dishwasher Safe\n- Leakproof guarantee\n- Lightweight\n- Fits ice cubes"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnused items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

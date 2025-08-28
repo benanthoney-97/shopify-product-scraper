@@ -1,0 +1,134 @@
+{
+  "url": "https://puresport.co/products/psrc-performance-long-sleeve-black",
+  "handle": "psrc-performance-long-sleeve-black",
+  "id": 7791981494410,
+  "title": "Performance Long Sleeve - Black",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Tops & T-shirts",
+    "live",
+    "Tops & T-shirts",
+    "YGroup_performancelong"
+  ],
+  "price_from_cents": 7500,
+  "price_from": "£75.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Performance_Long_Sleeve_Top.jpg?v=1756382226",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Run_Performance_Long_Sleeve.jpg?v=1756382226",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/LifestylePerformance5.jpg?v=1756382226",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NewPerformanceHR12.jpg?v=1756382226",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/LifestylePerformance6.jpg?v=1756382226",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NewPerformanceHR14.jpg?v=1756382226",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NewPerformanceHR13.jpg?v=1756382226"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Performance_Long_Sleeve_Top.jpg?v=1756382226",
+  "variants": [
+    {
+      "id": 43857639407754,
+      "title": "XS",
+      "sku": "PSM-PFORM-002-BLK-XS",
+      "available": true,
+      "price_cents": 7500,
+      "price": "£75.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798981",
+      "options": [
+        "XS"
+      ]
+    },
+    {
+      "id": 43857639440522,
+      "title": "S",
+      "sku": "PSM-PFORM-002-BLK-S",
+      "available": true,
+      "price_cents": 7500,
+      "price": "£75.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798998",
+      "options": [
+        "S"
+      ]
+    },
+    {
+      "id": 43857639473290,
+      "title": "M",
+      "sku": "PSM-PFORM-002-BLK-M",
+      "available": true,
+      "price_cents": 7500,
+      "price": "£75.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015799001",
+      "options": [
+        "M"
+      ]
+    },
+    {
+      "id": 43857639506058,
+      "title": "L",
+      "sku": "PSM-PFORM-002-BLK-L",
+      "available": true,
+      "price_cents": 7500,
+      "price": "£75.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015799018",
+      "options": [
+        "L"
+      ]
+    },
+    {
+      "id": 43857639538826,
+      "title": "XL",
+      "sku": "PSM-PFORM-002-BLK-XL",
+      "available": true,
+      "price_cents": 7500,
+      "price": "£75.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015799025",
+      "options": [
+        "XL"
+      ]
+    },
+    {
+      "id": 43857639571594,
+      "title": "XXL",
+      "sku": "PSM-PFORM-002-BLK-XXL",
+      "available": false,
+      "price_cents": 7500,
+      "price": "£75.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015799032",
+      "options": [
+        "XXL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Lightweight, breathable, and built to move with you. The long sleeve performance top is crafted from our Italian-milled Nylon/Elastane blend with natural 4-way stretch for a smooth fit and targeted ventilation.  Reengineered with ergonomically placed panelled perforation along the back and sides to enhance airflow where your body generates the most heat. The silhouette has been refined with a slightly longer body for improved coverage, and a tapered sleeve for a streamlined finish.  Finished with a heat-transferred Puresport signature logo on the chest in off-white for a clean, minimal aesthetic.  Moisture-wicking and odour-resistant for all-condition comfort.  Built for breathability, designed For the Long Run."
+    },
+    {
+      "heading": "Key Features",
+      "body": "- Nylon / Elastane Blend\n- Ergonomically Placed Panelled Perforation\n- Moisture Wicking\n- Odour Resistant"
+    },
+    {
+      "heading": "Size Table",
+      "body": "Size (cm)\nXS\nS\nM\nL\nXL\n2XL\nLength\n62.5\n64.5\n68.5\n70.5\n72.5\n74.5\nChest\n51\n53\n55\n57\n60\n63\nShoulders\n42.5\n44\n45.5\n47\n48.5\n50\nSleeve\n59\n61\n63\n65\n67\n69"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnused items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

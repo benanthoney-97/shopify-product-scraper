@@ -1,0 +1,208 @@
+{
+  "url": "https://puresport.co/products/ultra-ashwagandha",
+  "handle": "ultra-ashwagandha",
+  "id": 7742308483210,
+  "title": "Ultra Ashwagandha",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Capsules",
+    "Cognitive",
+    "filter:Recovery",
+    "filter:Sleep",
+    "has_free_item",
+    "nootropics",
+    "Recovery",
+    "Relax",
+    "sleep",
+    "Supplement",
+    "YGroup_Ashwagandha"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_1_c88a6d63-80db-4b3e-929d-8b8a267959c2.jpg?v=1751836657",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraAshwagandha.jpg?v=1751836657",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraAshwagandha2.jpg?v=1751836657",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_74.jpg?v=1753028412",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraAshwagandha3.jpg?v=1753028412",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_71.jpg?v=1753028412",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_72.jpg?v=1753028412",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_73.jpg?v=1753028412",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_75.jpg?v=1753028271",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_3_56a42592-4911-4ecd-b590-50a95115222b.jpg?v=1753028271",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_2_3844e31b-3fc4-45f6-bc0c-17adc105dd9d.jpg?v=1753028271",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_4_726f7ade-77ed-4d6d-a442-27fa0b58fe70.jpg?v=1753028271"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_1_c88a6d63-80db-4b3e-929d-8b8a267959c2.jpg?v=1751836657",
+  "variants": [
+    {
+      "id": 43028027310218,
+      "title": "1 Jar",
+      "sku": "PSC-KSM66ASHWAGANDHA-60",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015790107",
+      "options": [
+        "1 Jar"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Ashwagandha capsules are formulated with KSM-66 Ashwagandha and Piperine to enhance stress resilience, cognitive function, hormone balance, and exercise recovery. The product is designed to help athletes and individuals manage stress while improving physical performance and overall well-being."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Ashwagandha is widely known for its adaptogenic properties, helping the body manage stress, improve resilience, and enhance recovery. With the constant physical and mental demands placed on athletes and active individuals, the need for effective stress management is crucial. Chronic stress can lead to fatigue, reduced performance, and impaired recovery, all of which negatively impact athletic goals.\nPuresport’s Ultra Ashwagandha harnesses the power of KSM-66 Ashwagandha, the most clinically studied full-spectrum Ashwagandha extract, paired with Piperine to enhance absorption. This combination ensures that users get maximum benefits from Ashwagandha, including improved recovery, mental clarity, and physical endurance. Our formulation is Informed Sport certified, ensuring it is safe for professional athletes to use."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "KSM-66 Ashwagandha 12:1 Extract, Withanolides min 5% 500mg\nHoly Basil 5:1 Extract 300mg\nElemental Magnesium (Magnesium Oxide) 100mg\nElemental Zinc (Zinc Citrate) 10mg"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "For optimal results, take 2 capsules daily with food. This helps maximise absorption and minimises any potential side effects such as nausea. Due to its mildly stimulating effects, it’s best taken in the morning to enhance both physical and mental energy throughout the day."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710925320579",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      }
+    ],
+    "ongoing": [
+      "2 Jars, Shipped Bi-Monthly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

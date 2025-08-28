@@ -1,0 +1,65 @@
+{
+  "url": "https://puresport.co/products/nalgene-bottle-raspberry",
+  "handle": "nalgene-bottle-raspberry",
+  "id": 8299156799626,
+  "title": "Nalgene Water Bottle - Raspberry",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Water Bottle",
+    "Water Bottle",
+    "YGroup_bottles"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel31.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IMG_7946.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/22.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/17.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/21.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Raspberry_Puresport_Ultra_Electrolytes3_1.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultra_Electrolytes7.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/20.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/19.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/18.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/16.jpg?v=1755691413",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IMG_7947.jpg?v=1755691413"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel31.jpg?v=1755691413",
+  "variants": [
+    {
+      "id": 45496221630602,
+      "title": "Default Title",
+      "sku": "PSA-NALGENE-RASPBERRY-1L",
+      "available": false,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015795928",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Our iconic Salty Pace Nalgene bottle in our original Raspberry colourway to match our bestselling Raspberry Ultra Electrolytes. BPA free and dishwasher safe, this is a staple in any exercise and recovery routine."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- BPA/BPS Free\n- Dishwasher Safe\n- Leakproof guarantee\n- Lightweight\n- Fits ice cubes"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnused items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

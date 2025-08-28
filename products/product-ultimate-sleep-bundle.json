@@ -1,0 +1,203 @@
+{
+  "url": "https://puresport.co/products/ultimate-sleep-bundle",
+  "handle": "ultimate-sleep-bundle",
+  "id": 8270259224714,
+  "title": "Ultimate Sleep Bundle",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Bundle",
+    "filter:Sleep",
+    "has_free_item",
+    "Recovery",
+    "Relax",
+    "sleep",
+    "Supplement",
+    "YGroup_Unwind"
+  ],
+  "price_from_cents": 5000,
+  "price_from": "£50.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Bundles_UltimateSleep.jpg?v=1742912428",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultimate_Sleep.jpg?v=1742912428",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Unwind.jpg?v=1742912428",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Unwind2.jpg?v=1742912428",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraMagnesium.jpg?v=1751836811",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraMagnesium2.jpg?v=1751836811",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_4.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_3.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_2.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_1_95024a9c-6c41-49c9-901b-4768860c5d0e.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_1.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Magnesium_2_65fe63c9-14ef-4ad3-908a-5a1c3ed9e5af.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_2.jpg?v=1755011009"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Bundles_UltimateSleep.jpg?v=1742912428",
+  "variants": [
+    {
+      "id": 45384005681290,
+      "title": "Default Title",
+      "sku": "PSB-ULTIMATESLEEP-BUNDLE",
+      "available": true,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": 5500,
+      "compare_at_price": "£55.00",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Rest deeply and recover fully with the Ultimate Sleep Bundle combining natural sleep support with our Unwind Sleep Nootropic and essential Ultra Magnesium for enhanced recovery and performance."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Sleep plays a crucial role in overall health and performance, impacting recovery, cognitive function, and mental well-being. Runners and athletes, in particular, require restorative sleep to perform at their best.\nPuresport’s Unwind Sleep Capsules are designed to support sleep quality, reduce stress, and aid recovery through a combination of well-researched natural ingredients, selected for their scientifically supported effects on sleep improvement, stress reduction, and cognitive enhancement, ensuring a product that delivers on its promise.\nMagnesium plays a crucial role in over 300 biochemical reactions in the body, including muscle function, energy production, protein synthesis, and reducing fatigue. Athletes, especially those engaged in high-intensity activities, are often at risk of magnesium deficiency.\nUltra Magnesium helps to optimize recovery, maintain electrolyte balance, and improve sleep quality—essential elements of long-term athletic performance."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Ultra Magnesium:\nMagnesium Citrate 110mg\nMagnesium Bisglycinate 95mg\nMagnesium Taurate 20mg\nBeetroot Powder (Beta vulgaris) 1000mg\nVitamin D3 (Cholecalciferol from algae) 10µg\nUnwind Sleep Nootropic:\nL-Theanine (Camellia Sinensis, from 250mg of an 80-120:1 Green Tea Extract) 200mg\nMontmorency Cherry (Prunus Cerasus) 200mg\nKSM-66 Ashwagandha (Withania Somnifera) 200mg\nBacopa Monnieri 200mg\nBlack Pepper 16mg\nZinc (Zinc Oxide) 4mg\nIodine (Potassium Iodide) 100mcg"
+    },
+    {
+      "heading": "How to Take",
+      "body": "Ultra Magnesium:\nFor optimal results, take 3 capsules daily. For improved exercise performance, consume Ultra Magnesium 1 hour before exercise to enhance strength and endurance.\nUnwind Sleep Nootropic:\nFor optimal results, take 3 capsules daily. For improved exercise performance, consume Ultra Magnesium 1 hour before exercise to enhance strength and endurance."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries"
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710925320579",
+    "banner": "GET 30% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": "£35.00",
+    "price_current_cents": 3500,
+    "price_compare_at": "£50.00",
+    "price_compare_at_cents": 5000,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": "£0.00",
+        "price_now_cents": 0
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": "£50.00",
+        "price_was_cents": 5000,
+        "price_now": "£35.00",
+        "price_now_cents": 3500
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": "£50.00",
+        "price_was_cents": 5000,
+        "price_now": "£45.00",
+        "price_now_cents": 4500
+      }
+    ],
+    "ongoing": [
+      "2 Bundles, Shipped Bi-Monthly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

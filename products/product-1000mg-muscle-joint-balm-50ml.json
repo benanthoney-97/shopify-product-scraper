@@ -1,0 +1,204 @@
+{
+  "url": "https://puresport.co/products/1000mg-muscle-joint-balm-50ml",
+  "handle": "1000mg-muscle-joint-balm-50ml",
+  "id": 6770938970250,
+  "title": "1000mg Muscle & Joint Balm",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Balm + Freeze",
+    "balmfreeze",
+    "cbd-topical",
+    "filter:Recovery",
+    "has_free_item",
+    "Pain Relief",
+    "Recovery",
+    "Supplement",
+    "YGroup_Balm"
+  ],
+  "price_from_cents": 4000,
+  "price_from": "£40.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_1.jpg?v=1746995256",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Muscle_JointBalm.jpg?v=1743018507",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Muscle_JointBalm2.jpg?v=1743018507",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_Balm_4.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_Balm_3.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_Balm_5.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_Balm_6.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_Balm_7.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_2.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_FreezeRoll_Muscle_JointBalm_4_2085da80-73ab-44d6-a638-4bed4d5eb677.jpg?v=1753028762"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_1.jpg?v=1746995256",
+  "variants": [
+    {
+      "id": 40757346992266,
+      "title": "1 Balm",
+      "sku": "PSC-1000MGMUSCLEBALM",
+      "available": true,
+      "price_cents": 4000,
+      "price": "£40.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5060761820014",
+      "options": [
+        "1 Balm"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport’s Muscle and Joint Balm is a powerful and effective topical solution designed to relieve muscle soreness, joint discomfort, and inflammation. It combines high-quality cannabidiol (CBD) with a blend of soothing essential oils and natural waxes to provide targeted relief, helping active individuals recover faster and move more comfortably. The balm is formulated to penetrate deeply into the skin, offering relief where it's needed most."
+    },
+    {
+      "heading": "Why we Made this Product",
+      "body": "Physical activity, whether from exercise or daily tasks, can lead to muscle tension, soreness, and joint discomfort. Athletes, fitness enthusiasts, and those living active lifestyles often require a product that provides fast, targeted relief for aches and pains. The Muscle and Joint Balm was designed to address these needs, offering a natural, soothing balm that harnesses the power of CBD and essential oils known for their anti-inflammatory and pain-relieving properties.\nOur formulation also emphasises recovery and post-exercise care, aiding muscle and joint recovery to keep individuals performing at their best. With the addition of essential oils and natural waxes, this balm provides not only relief but also nourishment for the skin, making it ideal for regular use."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Cannabidiol (CBD): 1000mg\nCandelilla Wax: Natural plant-based wax\nTheobroma Cacao Seed Butter (Cocoa Butter): Moisturising base\nMentha Arvensis Leaf Oil (Wild Mint Oil): Cooling and soothing properties\nGaultheria Procumbens Leaf Oil (Wintergreen Oil): Anti-inflammatory, pain-relieving properties\nCymbopogon Citratus Leaf Oil (Lemongrass Oil): Natural pain reliever\nLavandula Angustifolia Oil (Lavender Oil): Calming and soothing\nHelichrysum Italicum Flower Oil (Helichrysum Oil): Healing and anti-inflammatory\nTocopherol (Vitamin E): Skin protection and repair\nLinalool, Limonene, Citral, Coumarin"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "For best results, apply a small amount of balm to the affected area and massage thoroughly until absorbed. Repeat as needed, particularly after physical activity or as part of a daily recovery routine."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710958055811",
+    "banner": "GET 30% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      }
+    ],
+    "ongoing": [
+      "Shipped Every 12 Weeks",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

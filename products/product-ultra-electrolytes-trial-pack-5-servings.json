@@ -1,0 +1,78 @@
+{
+  "url": "https://puresport.co/products/ultra-electrolytes-trial-pack-5-servings",
+  "handle": "ultra-electrolytes-trial-pack-5-servings",
+  "id": 15101901767043,
+  "title": "Ultra Electrolytes Trial Pack",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "Endurance",
+    "hidden",
+    "YBlocklist",
+    "YGroup_Electrolytes"
+  ],
+  "price_from_cents": 1000,
+  "price_from": "£10.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultra_Electrolytes_9.jpg?v=1755253785",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraElectrolytes_3.jpg?v=1756293058",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraElectrolytes_8_1.jpg?v=1755253785",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_36_1c14eeb6-8122-4502-9118-167cd486839e.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_37_e074f7ef-276a-4fb9-af7a-d48a0d2498bc.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_34_e7847dc0-8de9-47f3-a2ee-8ae495e6a9e1.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_31.jpg?v=1756293058",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/V2_Puresport_DrSam_1.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_32.jpg?v=1756293058",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_38_481d1647-e162-4259-a702-ee211ccf4699.jpg?v=1756293058",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_33_bb8fa98e-b484-4673-85da-f2aa07a7f032.jpg?v=1756308814"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultra_Electrolytes_9.jpg?v=1755253785",
+  "variants": [
+    {
+      "id": 55267610427779,
+      "title": "Default Title",
+      "sku": "PSC-ELECS-REFILL-5SACHETS",
+      "available": true,
+      "price_cents": 1000,
+      "price": "£10.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796086",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Electrolytes is a scientifically formulated electrolyte solution designed for athletes and active individuals who require optimal hydration during exercise. With a balanced combination of sodium, potassium, magnesium, and calcium, this electrolyte drink replenishes essential minerals lost during sweat, helping to maintain hydration, muscle function, and endurance."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Hydration is crucial for maintaining performance, particularly during intense or prolonged physical activity. Electrolytes like sodium and potassium are essential to prevent dehydration and muscle cramps, which are common issues in endurance sports. Puresport’s Ultra Electrolytes  is designed to keep athletes hydrated, improve endurance, and support muscle function with a sugar-free, refreshing citrus formula."
+    },
+    {
+      "heading": "Full Ingredients list",
+      "body": "Sodium (Chloride) 1000mg\nPotassium (Chloride) 250mg\nMagnesium (Citrate) 100mg\nCalcium (Malate) 50mg\nZero Sugar\nNatural Sweetener (Steviol Glycosides)*\nNatural Raspberry Flavouring\nNatural Lemon & Lime Flavouring & Natural Orange Flavouring"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to take",
+      "body": "Mix one sachet of Ultra Electrolytes  with 500ml of water 30 minutes before exercise for optimal hydration. During prolonged or high-intensity activities, an additional sachet may be consumed to replace electrolytes lost through sweat. Do not exceed 2 sachets per day without consulting a medical professional."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

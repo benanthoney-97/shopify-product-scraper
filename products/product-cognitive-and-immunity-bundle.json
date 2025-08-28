@@ -1,0 +1,82 @@
+{
+  "url": "https://puresport.co/products/cognitive-and-immunity-bundle",
+  "handle": "cognitive-and-immunity-bundle",
+  "id": 14737529831811,
+  "title": "Cognitive and Immunity Bundle",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Bundle",
+    "Cognitive",
+    "filter:Recovery",
+    "focus",
+    "hide_subcriptions",
+    "immunity",
+    "MushroomsNootropics",
+    "Recovery",
+    "Supplement",
+    "YGroup_LionsMane"
+  ],
+  "price_from_cents": 5500,
+  "price_from": "£55.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Bundles_CognitiveandImmunity.jpg?v=1742909796",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_CognitiveandImmunitybundle.jpg?v=1742909796",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Lion_s_Mane.jpg?v=1742909796",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Lion_s_Mane2.jpg?v=1742909796",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_VitaminD.jpg?v=1755526495",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_VitaminD2.jpg?v=1755526495",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_38.jpg?v=1746995057",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_37.jpg?v=1746995057",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_36.jpg?v=1746995057",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_1.jpg?v=1746995057",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_LionsMaine_1.jpg?v=1751836899",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_2.jpg?v=1746995057",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_LionsMaine_2.jpg?v=1753028584"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Bundles_CognitiveandImmunity.jpg?v=1742909796",
+  "variants": [
+    {
+      "id": 53263693185411,
+      "title": "Default Title",
+      "sku": null,
+      "available": false,
+      "price_cents": 5500,
+      "price": "£55.00",
+      "compare_at_price_cents": 6000,
+      "compare_at_price": "£60.00",
+      "barcode": null,
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Strengthen mind and body with the Cognitive Support Bundle, supporting bone health, immunity, cognitive function and stress management."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Lion’s Mane has been used for centuries in traditional medicine for its cognitive and neurological benefits. In today’s fast-paced world, where mental performance is just as important as physical performance, athletes and active individuals require supplements that not only support the body but also the mind.\nWe created the Vitamin D + K2 supplement for athletes and individuals who may be deficient in these essential vitamins. Low Vitamin D levels can impact muscle recovery, bone strength, and immune function.\nPaired together, this bundle is the perfect combination to support both cognitive performance and build immunity."
+    },
+    {
+      "heading": "Full Ingredients list",
+      "body": "Lions Mane:\nLion's Mane (8:1 Extract) 3000mg\nIncluding: Polysaccharides 75mg\nIncluding: Beta-Glucans 75mg\nIncluding: Triterpenes 75mg\n4000IU Vitamind D3 + K2:\nVitamin D3: 4000 IU\nVitamin K2 (MK-7): 100mcg\nHPMC (Empty Capsule Shell)\nBrown rice flour\nBamboo silica\nAllergen warning: may contain soya"
+    },
+    {
+      "heading": "How to take",
+      "body": "Lions Mane:\nFor optimal results, take 2 capsules daily with food to aid absorption. Due to its cognitive-enhancing effects, it is best taken in the morning to support mental clarity and focus throughout the day.\n4000IU Vitamin D3 + K2:\nFor optimal results, take 1 capsule daily with water, preferably in the morning. Athletes should consider regular supplementation, especially during the winter months or periods of reduced sun exposure.\nOur Vitamin D3+K2 supplement is of higher strength (Vitamin D3 4000IU). If you find the 4000IU strength too high, you can opt to take them once every 2-3 days instead of daily. This approach can be effective because both Vitamin D3 and K2 are fat-soluble, meaning they can be stored in the body's fat tissues and liver for future use."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

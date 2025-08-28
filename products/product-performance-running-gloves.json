@@ -1,0 +1,81 @@
+{
+  "url": "https://puresport.co/products/performance-running-gloves",
+  "handle": "performance-running-gloves",
+  "id": 15090832474499,
+  "title": "Performance Running Gloves",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "live"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Puresport_3.jpg?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Puresport_4.jpg?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel18_d50449b8-5dda-4045-9f6b-917dad29e4db.jpg?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/GLOVE_5.jpg?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel19_1ae8a1d9-1a71-49d1-93d5-8ff351d44c52.jpg?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Untitleddesign_8.png?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Untitled_design_11.png?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Untitled_design_9_ce547a30-2e5e-485a-8255-5dd472c4bf39.png?v=1756300686",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Untitled_design_10_6edcda36-797f-48a6-aaf9-dc7ababae2ec.png?v=1756300686"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Puresport_3.jpg?v=1756300686",
+  "variants": [
+    {
+      "id": 55223349477763,
+      "title": "S/M",
+      "sku": "PSM-PFORM-GLOVES-BLK-SM-MD",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798073",
+      "options": [
+        "S/M"
+      ]
+    },
+    {
+      "id": 55223349510531,
+      "title": "L/XL",
+      "sku": "PSM-PFORM-GLOVES-BLK-LG-XL",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798080",
+      "options": [
+        "L/XL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Introducing our new Performance Running Glove—meticulously crafted to elevate every run and stylish enough for versatile daily use. With an opening for convenient viewing of your watch/wearable device, our gloves are engineered specifically for runners who demand excellence. Featuring an advanced nylon-elastane blend that maximises comfort, durability, and flexibility. Moisture-wicking yarns efficiently draw sweat away from your skin, ensuring your hands remain dry and comfortable no matter the pace or distance. Strategically placed printed rib detailing on the inner palm enhances grip, providing precise control and stability. Innovative Sensitive+ technology embedded in the index finger and thumb guarantees flawless touchscreen compatibility, so you can seamlessly navigate your device without ever interrupting your stride. Finished with our signature reflective 3M branding, these gloves are the perfect fusion of performance, comfort, and sleek aesthetics. Whether you're tackling your daily run or navigating an urban commute."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- Advanced nylon-elastane blend for optimal comfort, durability, and flexibility.\n- Opening for watch/wearable device viewing.\n- Moisture-wicking yarns keep hands dry and comfortable, regardless of pace or distance.\n- Printed rib detailing on the inner palm enhances grip, ensuring precise control and stability.\n- Innovative Sensitive+ technology on index finger and thumb for seamless touchscreen compatibility.\n -Signature reflective 3M branding for improved visibility and sophisticated style."
+    },
+    {
+      "heading": "Model Info",
+      "body": "85% Nylon\n15% Elastane"
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Bleach\n                                Do Not Tumble Dry\n                                Machine Wash (30°C Delicate)"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnworn items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

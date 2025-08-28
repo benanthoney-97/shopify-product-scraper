@@ -1,0 +1,42 @@
+{
+  "url": "https://puresport.co/products/international-womens-day-with-puresport-2025",
+  "handle": "international-womens-day-with-puresport-2025",
+  "id": 15052621119875,
+  "title": "International Women's Day with Puresport 2025",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [
+    "event"
+  ],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IWDKomi.jpg?v=1740656974"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IWDKomi.jpg?v=1740656974",
+  "variants": [
+    {
+      "id": 55104861602179,
+      "title": "General Admission",
+      "sku": null,
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": null,
+      "options": [
+        "General Admission"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Event Information",
+      "body": "THIS INTERNATIONAL WOMEN'S DAY  Not for pace, but for presence.\nJoin London's running community for a 5km celebration of strength in motion.  March 8th, 9:30am Puresport Clubhouse, SE1 0LR  Something special is happening. Be part of it.\nPlease note you must register via Eventbrite for this special event. Please follow the link below.  RSVP: https://www.eventbrite.co.uk/e/international-womens-day-with-puresport-2025-tickets-1256391784649?aff=oddtdtcreator"
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

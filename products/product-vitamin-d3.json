@@ -1,0 +1,204 @@
+{
+  "url": "https://puresport.co/products/vitamin-d3",
+  "handle": "vitamin-d3",
+  "id": 14680536973699,
+  "title": "4000IU Vitamin D3 + K2",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "filter:Recovery",
+    "has_free_item",
+    "immunity",
+    "Performance",
+    "Recovery",
+    "Supplement",
+    "YGroup_VitD3"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_1_4229fc81-c743-4768-b062-d07d82d0b3c8.jpg?v=1755526495",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_VitaminD.jpg?v=1755526495",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_VitaminD2.jpg?v=1755526495",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_64.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_62.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_63.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_65.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_66.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_61.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_2_38647b77-bfe4-41a7-a1cc-2062e74e5730.jpg?v=1755526495",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_4_c0c00753-2a1d-4036-b7f0-a53232915fc9.jpg?v=1753028037",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_3_a6867baa-cb60-48bc-9e94-985e8f27d836.jpg?v=1753028037"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_VitaminD3_K2_1_4229fc81-c743-4768-b062-d07d82d0b3c8.jpg?v=1755526495",
+  "variants": [
+    {
+      "id": 53256721400195,
+      "title": "1 Jar",
+      "sku": "PSC-VITD3-60CAPS",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015795546",
+      "options": [
+        "1 Jar"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "This supplement is designed to support bone health, immune function, and cardiovascular health, featuring 4000 IU of Vitamin D3 sourced from marine algae and 100mcg of Vitamin K2. This formulation ensures optimal calcium absorption while promoting strong bones and a healthy heart. Suitable for vegans, this product is ideal for athletes looking to maintain peak performance."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "We created the Vitamin D + K2 supplement for athletes and individuals who may be deficient in these essential vitamins. Low Vitamin D levels can impact muscle recovery, bone strength, and immune function. With this product, we aim to ensure that athletes and active individuals are provided with a high-quality, plant-based Vitamin D3 and K2 formula, tailored for their needs."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Vitamin D3: 4000 IU\nVitamin K2 (MK-7): 100mcg\nHPMC (Empty Capsule Shell)\nBrown rice flour\nBamboo silica\nAllergen warning: may contain soya"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "For optimal results, take 1 capsule daily with water, preferably in the morning. Athletes should consider regular supplementation, especially during the winter months or periods of reduced sun exposure.\nOur Vitamin D3+K2 supplement is of higher strength (Vitamin D3 4000IU). If you find the 4000IU strength too high, you can opt to take them once every 2-3 days instead of daily. This approach can be effective because both Vitamin D3 and K2 are fat-soluble, meaning they can be stored in the body's fat tissues and liver for future use."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries"
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710958023043",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      }
+    ],
+    "ongoing": [
+      "2 Jars, Shipped Every 4 Months",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

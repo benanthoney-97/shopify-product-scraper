@@ -1,0 +1,205 @@
+{
+  "url": "https://puresport.co/products/1000mg-pure-freeze-roll-on",
+  "handle": "1000mg-pure-freeze-roll-on",
+  "id": 6770939953290,
+  "title": "1000mg Muscle & Joint Freeze Roll-On",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "balmfreeze",
+    "cbd",
+    "cbd-topical",
+    "filter:Recovery",
+    "has_free_item",
+    "Pain Relief",
+    "Recovery",
+    "Supplement",
+    "Ygroup_Roll-on"
+  ],
+  "price_from_cents": 3800,
+  "price_from": "£38.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_FreezeRoll_1_71b21650-3583-45ec-85ee-9bd012a1f84e.jpg?v=1746995372",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FreezeRoll.jpg?v=1743018483",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FreezeRoll2.jpg?v=1743018483",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FreezeRoll3.jpg?v=1743018483",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_81.jpg?v=1753028668",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_79.jpg?v=1753028668",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_82.jpg?v=1753028668",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_80.jpg?v=1753028668",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_78.jpg?v=1753028668",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_FreezeRoll_2_011afd26-f970-4f88-8c3c-b96f4724f9eb.jpg?v=1753028668",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_FreezeRoll_3_cd70bd26-768f-472b-a4a5-4da4736ff1f0.jpg?v=1753028668"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_FreezeRoll_1_71b21650-3583-45ec-85ee-9bd012a1f84e.jpg?v=1746995372",
+  "variants": [
+    {
+      "id": 40759588323466,
+      "title": "1 Balm",
+      "sku": "PSC-1000MGFREEZE",
+      "available": true,
+      "price_cents": 3800,
+      "price": "£38.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5060761820519",
+      "options": [
+        "1 Balm"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Freeze Roll-On delivers targeted relief with a 1000mg dose of high-quality CBD, combined with natural ingredients such as Arnica Montana Extract, Menthol, and Magnesium Sulfate for cooling and soothing effects. This product is designed for runners, athletes, and active individuals seeking fast-acting relief for sore muscles and joints."
+    },
+    {
+      "heading": "Why we Made this Product",
+      "body": "Our formulation also emphasises recovery and post-exercise care, aiding muscle and joint recovery to keep individuals performing at their best. With the addition of essential oils and natural waxes, this balm provides not only relief but also nourishment for the skin, making it ideal for regular use."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Cannabidiol (CBD)\nCannabis Sativa Seed Oil\nArnica Montana Extract\nMagnesium Sulphate\nAloe Barbadensis Leaf Juice\nHamamelis Virginiana Water (Witch Hazel)\nGlycine Soja Oil (Soybean Oil)\nSorbitan Olivate\nMentha Viridis Leaf Oil (Spearmint Oil)\nPolysorbate 80\nMentha Arvensis Leaf Oil (Peppermint Oil)\nCymbopogon Citratus Leaf Oil (Lemongrass Oil)\nTocopherol (Vitamin E)\nHydroxyethylcellulose\nPotassium Sorbate\nCitric Acid\nPhenoxyethanol\nLimonene\nCitral"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "Apply the Freeze Roll-On directly to the affected area up to 3-4 times per day. The roll-on applicator allows for precise, mess-free application, making it perfect for targeting specific muscle groups or joints after a workout."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710958055811",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      }
+    ],
+    "ongoing": [
+      "Shipped Every 12 Weeks",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

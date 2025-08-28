@@ -1,0 +1,45 @@
+{
+  "url": "https://puresport.co/products/16-week-marathon-plan",
+  "handle": "16-week-marathon-plan",
+  "id": 15037004218755,
+  "title": "16-Week Marathon Plan",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [
+    "event",
+    "TrainingPlan"
+  ],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_9-16__Blogs_12.jpg?v=1739722320",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_1-1__Blogs_8.jpg?v=1739722320",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_1-1__Blogs_10_1.jpg?v=1739722320"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_9-16__Blogs_12.jpg?v=1739722320",
+  "variants": [
+    {
+      "id": 55059726401923,
+      "title": "Default Title",
+      "sku": "",
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Event Information",
+      "body": "Starting Marathon training? Download our FREE 16-Week Training Plan to help you structure your training and smash your goals."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://puresport.co/products/puresport-x-arcteryx-trail-run-series-richmond-park",
+  "handle": "puresport-x-arcteryx-trail-run-series-richmond-park",
+  "id": 7740636987530,
+  "title": "Puresport x Arc'teryx Trail Run Series - Richmond Park",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [
+    "event",
+    "runclub"
+  ],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/DSC08524_89e0cab2-3d1c-47c9-a399-116b8eb78444.jpg?v=1688380351"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/DSC08524_89e0cab2-3d1c-47c9-a399-116b8eb78444.jpg?v=1688380351",
+  "variants": [
+    {
+      "id": 43022802256010,
+      "title": "General Admission",
+      "sku": "",
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": null,
+      "options": [
+        "General Admission"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

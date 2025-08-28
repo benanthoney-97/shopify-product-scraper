@@ -1,0 +1,78 @@
+{
+  "url": "https://puresport.co/products/1000mg-balm-steel-gua-sha",
+  "handle": "1000mg-balm-steel-gua-sha",
+  "id": 6998896443530,
+  "title": "1000mg Balm & Steel Gua Sha",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Balm + Freeze",
+    "balmfreeze",
+    "Bundle",
+    "cbd-topical",
+    "filter:Recovery",
+    "gift-set",
+    "Gua Sha",
+    "has_free_item",
+    "Pain Relief",
+    "Recovery",
+    "Supplement"
+  ],
+  "price_from_cents": 5200,
+  "price_from": "£52.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_3.jpg?v=1743018468",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Muscle_JointBalm_2c13e160-3870-46d5-abb9-9ac86dc67082.jpg?v=1743018468",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Muscle_JointBalm3_60f580b3-f383-4448-b173-2e40fa0a7332.jpg?v=1743018468",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Muscle_JointBalm2_968d522c-8d75-4079-9970-69ef36992013.jpg?v=1743018468",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Muscle_JointBalm4_d26c129a-989e-4dcf-a0d6-76d7777b1051.jpg?v=1743018468",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_1.jpg?v=1746995256",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_FreezeRoll_Muscle_JointBalm_4_2085da80-73ab-44d6-a638-4bed4d5eb677.jpg?v=1753028762",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_2.jpg?v=1753028762"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Muscle_JointBalm_3.jpg?v=1743018468",
+  "variants": [
+    {
+      "id": 41678602567818,
+      "title": "Default Title",
+      "sku": "PSC-BALM-STEELGS-BUNDLE",
+      "available": true,
+      "price_cents": 5200,
+      "price": "£52.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport’s Muscle and Joint Balm is a powerful and effective topical solution designed to relieve muscle soreness, joint discomfort, and inflammation. It combines high-quality cannabidiol (CBD) with a blend of soothing essential oils and natural waxes to provide targeted relief, helping active individuals recover faster and move more comfortably. The balm is formulated to penetrate deeply into the skin, offering relief where it's needed most."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Physical activity, whether from exercise or daily tasks, can lead to muscle tension, soreness, and joint discomfort. Athletes, fitness enthusiasts, and those living active lifestyles often require a product that provides fast, targeted relief for aches and pains. The Muscle and Joint Balm was designed to address these needs, offering a natural, soothing balm that harnesses the power of CBD and essential oils known for their anti-inflammatory and pain-relieving properties.\nOur formulation also emphasises recovery and post-exercise care, aiding muscle and joint recovery to keep individuals performing at their best. With the addition of essential oils and natural waxes, this balm provides not only relief but also nourishment for the skin, making it ideal for regular use."
+    },
+    {
+      "heading": "Full Ingredients list",
+      "body": "Cannabidiol (CBD): 1000mg\nCandelilla Wax: Natural plant-based wax\nTheobroma Cacao Seed Butter (Cocoa Butter): Moisturising base\nMentha Arvensis Leaf Oil (Wild Mint Oil): Cooling and soothing properties\nGaultheria Procumbens Leaf Oil (Wintergreen Oil): Anti-inflammatory, pain-relieving properties\nCymbopogon Citratus Leaf Oil (Lemongrass Oil): Natural pain reliever\nLavandula Angustifolia Oil (Lavender Oil): Calming and soothing\nHelichrysum Italicum Flower Oil (Helichrysum Oil): Healing and anti-inflammatory\nTocopherol (Vitamin E): Skin protection and repair\nLinalool, Limonene, Citral, Coumarin"
+    },
+    {
+      "heading": "How to take",
+      "body": "For best results, apply a small amount of balm to the affected area and massage thoroughly until absorbed. Repeat as needed, particularly after physical activity or as part of a daily recovery routine."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "url": "https://puresport.co/products/for-the-long-run-hoodie-washed-grey",
+  "handle": "for-the-long-run-hoodie-washed-grey",
+  "id": 15330382512515,
+  "title": "For the Long Run Hoodie - Washed Grey",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Hoodies & Sweatshirts",
+    "FTLR",
+    "Hoodies & Sweatshirts",
+    "live"
+  ],
+  "price_from_cents": 9500,
+  "price_from": "£95.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_ForTheLongRun_Hoodie.jpg?v=1755688316",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_ForTheLongRun_Hoodie2.jpg?v=1755688316",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FTLR_Grey_Hoodie3.jpg?v=1755688316",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FTLR_Grey_Hoodie4.jpg?v=1755688316",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FTLR_Grey_Hoodie.jpg?v=1755688316",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FTLR_Grey_Hoodie2.jpg?v=1755688316"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_ForTheLongRun_Hoodie.jpg?v=1755688316",
+  "variants": [
+    {
+      "id": 56197304582531,
+      "title": "XS",
+      "sku": "PSM-HOODIE-S25-001-XS",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798738",
+      "options": [
+        "XS"
+      ]
+    },
+    {
+      "id": 56197304615299,
+      "title": "S",
+      "sku": "PSM-HOODIE-S25-001-S",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798745",
+      "options": [
+        "S"
+      ]
+    },
+    {
+      "id": 56197304648067,
+      "title": "M",
+      "sku": "PSM-HOODIE-S25-001-M",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798752",
+      "options": [
+        "M"
+      ]
+    },
+    {
+      "id": 56197304680835,
+      "title": "L",
+      "sku": "PSM-HOODIE-S25-001-L",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798769",
+      "options": [
+        "L"
+      ]
+    },
+    {
+      "id": 56197304713603,
+      "title": "XL",
+      "sku": "PSM-HOODIE-S25-001-XL",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798776",
+      "options": [
+        "XL"
+      ]
+    },
+    {
+      "id": 56197304746371,
+      "title": "2XL",
+      "sku": "PSM-HOODIE-S25-001-XXL",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798783",
+      "options": [
+        "2XL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "A retro-inspired hoodie for the warm-up and cool down. The relaxed drop-shoulder silhouette and overdyed treatment create a worn-in finish reminiscent of the best vintage sweatshirts. Constructed from a brushed 420gsm cotton jersey milled in Portugal. Fade-out wash, giving a soft hand feel. Our silk screen For The Long Run graphic. Tonal drawstrings. Suitable for light activity and recovery."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- Front kangaroo pocket\n- Double layer hood\n- Pre-shrunk\n- Silk Screen Print Branding\n- Ribbed cuffs & hem\n- 100% Organic Cotton\n- Origin: Portugal\n- Produced: Portugal"
+    },
+    {
+      "heading": "Size Table",
+      "body": "Size (cm)\nXS\nS\nM\nL\nXL\n2XL\nLength\n61\n63\n65\n67\n69\n72\nChest\n57\n59\n61\n63\n65\n67\nShoulders\n60\n62\n64\n66\n68\n70\nSleeve\n55\n56\n57\n58\n59\n60"
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Bleach\n                                Do Not Tumble Dry\n                                Machine Wash (30°C Delicate)"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnworn items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

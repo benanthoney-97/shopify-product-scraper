@@ -1,0 +1,119 @@
+{
+  "url": "https://puresport.co/products/ultra-electrolytes-60-pack-citrus-salt",
+  "handle": "ultra-electrolytes-60-pack-citrus-salt",
+  "id": 15061385544067,
+  "title": "Ultra Electrolytes (60 pack) - Citrus Salt",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Endurance",
+    "filter:Hydration",
+    "filter:Performance",
+    "Hydration",
+    "MultiItemBundle",
+    "Performance",
+    "Supplement",
+    "YGroup_Electrolytes"
+  ],
+  "price_from_cents": 6000,
+  "price_from": "£60.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Electrolytes_1.jpg?v=1751836827",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes5.jpg?v=1751836827",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes6.jpg?v=1751836827",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_60Pack_UltraElectrolytes_2.jpg?v=1756294235",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes7.jpg?v=1756294235",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes8.jpg?v=1756294235",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_26_19f708d2-e82c-46d2-83e2-d0ece5554512.jpg?v=1756294235",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_24_0cd51fe3-e709-4449-abbd-d950ee104469.jpg?v=1756294235",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_23_dba7237c-4d26-4006-afc2-c62306e6e903.jpg?v=1756294235",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_28_71a1891c-e215-4a18-b689-838160059a0b.jpg?v=1756294235"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Electrolytes_1.jpg?v=1751836827",
+  "variants": [
+    {
+      "id": 55129707839875,
+      "title": "Default Title",
+      "sku": "PSB-ULTRAELEC-CITRUS-60PK",
+      "available": true,
+      "price_cents": 6000,
+      "price": "£60.00",
+      "compare_at_price_cents": 6600,
+      "compare_at_price": "£66.00",
+      "barcode": null,
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Electrolytes Citrus Salt is a scientifically formulated electrolyte solution designed for athletes and active individuals who require optimal hydration during exercise. With a balanced combination of sodium, potassium, magnesium, and calcium, this citrus-flavoured electrolyte drink replenishes essential minerals lost during sweat, helping to maintain hydration, muscle function, and endurance. The citrus flavour provides a refreshing, light taste while delivering an effective dose of electrolytes."
+    },
+    {
+      "heading": "Why we Made this Product",
+      "body": "Hydration is crucial for maintaining performance, particularly during intense or prolonged physical activity. Electrolytes like sodium and potassium are essential to prevent dehydration and muscle cramps, which are common issues in endurance sports. Puresport’s Ultra Electrolytes Citrus Salt is designed to keep athletes hydrated, improve endurance, and support muscle function with a sugar-free, refreshing citrus formula.\nWe developed this product to ensure that active individuals can maintain peak performance by staying properly hydrated, even under challenging conditions. The Citrus Salt variant offers a zesty, refreshing flavour while providing a high dose of sodium for effective hydration."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Sodium (Chloride) 1000mg\nPotassium (Chloride) 250mg\nMagnesium (Citrate) 100mg\nCalcium (Malate) 50mg\nZero Sugar\nNatural Sweetener (Steviol Glycosides)*\nNatural Lemon & Lime Flavouring & Natural Orange Flavouring"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "Mix one sachet of Ultra Electrolytes Citrus Salt with 500ml of water 30 minutes before exercise for optimal hydration. During prolonged or high-intensity activities, an additional sachet may be consumed to replace electrolytes lost through sweat. Do not exceed 2 sachets per day without consulting a medical professional."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710958055811",
+    "banner": "GET 30% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": "£42.00",
+    "price_current_cents": 4200,
+    "price_compare_at": "£60.00",
+    "price_compare_at_cents": 6000,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": "£0.00",
+        "price_now_cents": 0
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": "£60.00",
+        "price_was_cents": 6000,
+        "price_now": "£42.00",
+        "price_now_cents": 4200
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": "£60.00",
+        "price_was_cents": 6000,
+        "price_now": "£54.00",
+        "price_now_cents": 5400
+      }
+    ],
+    "ongoing": [
+      "1 Pack, Shipped Quarterly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": null
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

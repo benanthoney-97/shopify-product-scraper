@@ -1,0 +1,40 @@
+{
+  "url": "https://puresport.co/products/cordyceps-capsules-refill-bag-60-caps",
+  "handle": "cordyceps-capsules-refill-bag-60-caps",
+  "id": 7851490934922,
+  "title": "Cordyceps Capsules Refill Bag - 60 Caps",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "cordyceps",
+    "gut",
+    "hidden",
+    "Mushrooms",
+    "salecollection",
+    "Supplement"
+  ],
+  "price_from_cents": 3500,
+  "price_from": "£35.00",
+  "currency": null,
+  "images": [],
+  "featured_image": null,
+  "variants": [
+    {
+      "id": 44030189437066,
+      "title": "1 Refill Bag",
+      "sku": "PSC-CORDYCEPS-REFILL-60",
+      "available": false,
+      "price_cents": 3500,
+      "price": "£35.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015791364",
+      "options": [
+        "1 Refill Bag"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

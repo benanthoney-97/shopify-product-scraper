@@ -1,0 +1,58 @@
+{
+  "url": "https://puresport.co/products/perforated-running-cap-olive",
+  "handle": "perforated-running-cap-olive",
+  "id": 15200609173891,
+  "title": "Perforated Running Cap - Olive",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "Archive Drop",
+    "Cap",
+    "filter:Caps",
+    "live",
+    "YGroup_Cap"
+  ],
+  "price_from_cents": 3000,
+  "price_from": "£30.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps_2.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps_3.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_caps.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_caps5.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_caps6.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps_5.jpg?v=1755688583",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps_4.jpg?v=1755688583"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_Performance_Caps.jpg?v=1755688583",
+  "variants": [
+    {
+      "id": 55480164712835,
+      "title": "One Size",
+      "sku": "PSM-PURESPORT-TRAIL-CAP-OLIVE",
+      "available": true,
+      "price_cents": 3000,
+      "price": "£30.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798042",
+      "options": [
+        "One Size"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Crafted from high-quality, 100% nylon, this ultra-lightweight and water-repellent cap is built for performance—ideal for training, race day, or recovery. Re-engineered with laser-cut perforated panels to enhance airflow and cooling across key heat zones. Guided by principles of human thermoregulation, these areas deliver targeted ventilation to help regulate temperature and keep you cool during movement. An adjustable toggle system ensures a secure, personalised fit that stays in place without compromising comfort. Finished with our iconic Puresport branding for a clean, performance-led finish."
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Tumble Dry\n                                Do Not Bleach"
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

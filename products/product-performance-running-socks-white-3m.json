@@ -1,0 +1,74 @@
+{
+  "url": "https://puresport.co/products/performance-running-socks-white-3m",
+  "handle": "performance-running-socks-white-3m",
+  "id": 14879740985731,
+  "title": "Performance Running Socks - White 3M",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Socks",
+    "live",
+    "Socks",
+    "YGroup_socks"
+  ],
+  "price_from_cents": 1200,
+  "price_from": "£12.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Puresport_2a4c1472-d9cf-415d-940d-00fd1d4787bb.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Performance_Socks_Flatlays14.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Performance_Socks_Flatlays15.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Performance_Socks_December12.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Performance_Socks_December13.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_86_4a17656f-9bea-4df2-9577-3c82acf69dc7.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_87_ca7574b2-f49c-423c-822c-52803adb2272.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_84_e2827b93-1746-4f7d-8805-0e5b30f940c2.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_83_d18baaec-c893-4adb-8979-56053cfa96f3.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_85_9e7ef46d-227e-4e6d-b402-444c137c7929.jpg?v=1756300767",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_88_25ed0661-aded-46d0-8bdd-d560e384525b.jpg?v=1756300767"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Puresport_2a4c1472-d9cf-415d-940d-00fd1d4787bb.jpg?v=1756300767",
+  "variants": [
+    {
+      "id": 54903683350915,
+      "title": "UK 4-8",
+      "sku": "PSM-SOCKS-M60-SM-MD",
+      "available": true,
+      "price_cents": 1200,
+      "price": "£12.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796710",
+      "options": [
+        "UK 4-8"
+      ]
+    },
+    {
+      "id": 54903683383683,
+      "title": "UK 9-12",
+      "sku": "PSM-SOCKS-M60-LG-XL",
+      "available": true,
+      "price_cents": 1200,
+      "price": "£12.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796727",
+      "options": [
+        "UK 9-12"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Our signature performance running sock material, with front facing Puresport drop logo in 3M reflective print. Available in two sizes."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnworn items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

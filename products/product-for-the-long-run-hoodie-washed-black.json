@@ -1,0 +1,147 @@
+{
+  "url": "https://puresport.co/products/for-the-long-run-hoodie-washed-black",
+  "handle": "for-the-long-run-hoodie-washed-black",
+  "id": 14849739653507,
+  "title": "For the Long Run Hoodie - Washed Black",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Hoodies & Sweatshirts",
+    "FTLR",
+    "Hoodies & Sweatshirts",
+    "live"
+  ],
+  "price_from_cents": 9500,
+  "price_from": "£95.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_FTLR_3.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_FTLR_4.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Apparel5.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Apparel2.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Apparel6.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Apparel_ce080213-dcbb-45a8-8feb-a1e0cc2021f2.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Apparel3.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Apparel4.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Collection10.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_For_The_Long_Run_Apparel4.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_For_The_Long_Run_Apparel5.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_For_The_Long_Run_Apparel7.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_For_The_Long_Run_Apparel6.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Collection11.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Collection12.jpg?v=1755688446",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_ForTheLongRun_Collection13.jpg?v=1755688446"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel_FTLR_3.jpg?v=1755688446",
+  "variants": [
+    {
+      "id": 54864199778691,
+      "title": "XS",
+      "sku": "PSM-FTLR-HOODIE-WASHEDBLK-DEC24-XS",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797694",
+      "options": [
+        "XS"
+      ]
+    },
+    {
+      "id": 54864199811459,
+      "title": "S",
+      "sku": "PSM-FTLR-HOODIE-WASHEDBLK-DEC24-S",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797700",
+      "options": [
+        "S"
+      ]
+    },
+    {
+      "id": 54864199844227,
+      "title": "M",
+      "sku": "PSM-FTLR-HOODIE-WASHEDBLK-DEC24-M",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797717",
+      "options": [
+        "M"
+      ]
+    },
+    {
+      "id": 54864199876995,
+      "title": "L",
+      "sku": "PSM-FTLR-HOODIE-WASHEDBLK-DEC24-L",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797724",
+      "options": [
+        "L"
+      ]
+    },
+    {
+      "id": 54864199909763,
+      "title": "XL",
+      "sku": "PSM-FTLR-HOODIE-WASHEDBLK-DEC24-XL",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797731",
+      "options": [
+        "XL"
+      ]
+    },
+    {
+      "id": 54864199942531,
+      "title": "2XL",
+      "sku": "PSM-FTLR-HOODIE-WASHEDBLK-DEC24-XXL",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797748",
+      "options": [
+        "2XL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "A retro-inspired hoodie for the warm-up and cool down. The relaxed drop-shoulder silhouette and overdyed treatment create a worn-in finish reminiscent of the best vintage sweatshirts. Constructed from a brushed 420gsm cotton jersey milled in Portugal. Fade-out wash, giving a soft hand feel. Our silk screen For The Long Run graphic. Tonal drawstrings. Suitable for light activity and recovery."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- Front kangaroo pocket\n- Double layer hood\n- Pre-shrunk\n- Silk Screen Print Branding\n- Ribbed cuffs & hem\n- 100% Organic Cotton\n- Origin: Portugal\n- Produced: Portugal"
+    },
+    {
+      "heading": "Size Table",
+      "body": "Size (cm)\nXS\nS\nM\nL\nXL\n2XL\nLength\n61\n63\n65\n67\n69\n72\nChest\n57\n59\n61\n63\n65\n67\nShoulders\n60\n62\n64\n66\n68\n70\nSleeve\n55\n56\n57\n58\n59\n60"
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Bleach\n                                Do Not Tumble Dry\n                                Machine Wash (30°C Delicate)"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnworn items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

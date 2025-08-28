@@ -1,0 +1,364 @@
+{
+  "url": "https://puresport.co/products/ultra-electrolytes-discovery-pack-2x15-pack",
+  "handle": "ultra-electrolytes-discovery-pack-2x15-pack",
+  "id": 8252220047498,
+  "title": "Ultra Electrolytes Discovery Pack (30 pack)",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "Endurance",
+    "filter:Hydration",
+    "filter:Performance",
+    "has_free_item",
+    "hidden",
+    "Hydration",
+    "Performance",
+    "Supplement",
+    "YGroup_Electrolytes"
+  ],
+  "price_from_cents": 3300,
+  "price_from": "£33.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Electrolytes_5_02ad35b6-b972-4baf-aa3f-a60ccf22a446.jpg?v=1742912549",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes_499838f7-5bb5-4d28-b922-fd72b3385d74.jpg?v=1756293058",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes2_f6231067-fc57-4e67-bd53-5cf832fff788.jpg?v=1756399791",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultra_Electrolytes_10_1.jpg?v=1755007242",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes3_6782558c-7a6c-459a-90ec-4d3e7fbbd764.jpg?v=1756399791",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes4_d2e59756-2596-4bfe-81d8-30607227707c.jpg?v=1756399791",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQs5.jpg?v=1755007202",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_25.jpg?v=1755007242",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_26.jpg?v=1755007242"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Electrolytes_5_02ad35b6-b972-4baf-aa3f-a60ccf22a446.jpg?v=1742912549",
+  "variants": [
+    {
+      "id": 45319763099786,
+      "title": "Default Title",
+      "sku": "PSB-ELECTROLYTES-15PK-DISCOVERYPACK",
+      "available": true,
+      "price_cents": 3300,
+      "price": "£33.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Electrolytes is a scientifically formulated electrolyte solution designed for athletes and active individuals who require optimal hydration during exercise. With a balanced combination of 1000mg sodium, 250mg potassium, 100mg magnesium, and 50mg calcium, this electrolyte drink replenishes essential minerals lost during sweat, helping to maintain hydration, muscle function, and endurance. The Discovery pack contains 15 sachets of Raspberry and 15 sachets of Citrus flavours"
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Hydration is crucial for maintaining performance, particularly during intense or prolonged physical activity. Electrolytes like sodium and potassium are essential to prevent dehydration and muscle cramps, which are common issues in endurance sports. Puresport’s Ultra Electrolytes is designed to keep athletes hydrated, improve endurance, and support muscle function with a sugar-free, refreshing citrus formula."
+    },
+    {
+      "heading": "Full Ingredients list",
+      "body": "Sodium (Chloride) 1000mg\nPotassium (Chloride) 250mg\nMagnesium (Citrate) 100mg\nCalcium (Malate) 50mg\nZero Sugar\nNatural Sweetener (Steviol Glycosides)*\nNatural Raspberry Flavouring\nNatural Lemon & Lime Flavouring & Natural Orange Flavouring"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to take",
+      "body": "Mix one sachet of Ultra Electrolytes  with 500ml of water 30 minutes before exercise for optimal hydration. During prolonged or high-intensity activities, an additional sachet may be consumed to replace electrolytes lost through sweat. Do not exceed 2 sachets per day without consulting a medical professional."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "1309311114",
+    "banner": null,
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [],
+    "ongoing": [
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 7727897346186,
+      "title": "Performance Running Socks - Neon Pink",
+      "handle": "performance-running-socks-neon-pink",
+      "description": "",
+      "published_at": "2024-06-21T10:55:37+01:00",
+      "created_at": "2023-05-25T09:01:57+01:00",
+      "vendor": "Puresport",
+      "type": "Apparel drop",
+      "tags": [
+        "Apparel",
+        "Archive Drop",
+        "filter:Recovery",
+        "filter:Socks",
+        "live",
+        "Socks",
+        "YGroup_socks"
+      ],
+      "price": 1200,
+      "price_min": 1200,
+      "price_max": 1200,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 44939248697482,
+          "title": "S/M (UK 4-8)",
+          "option1": "S/M (UK 4-8)",
+          "option2": null,
+          "option3": null,
+          "sku": "PSM-SOCKS-M24-SM-MD",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "name": "Performance Running Socks - Neon Pink - S/M (UK 4-8)",
+          "public_title": "S/M (UK 4-8)",
+          "options": [
+            "S/M (UK 4-8)"
+          ],
+          "price": 1200,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015794327",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        },
+        {
+          "id": 44870294831242,
+          "title": "L/XL (UK 9-12)",
+          "option1": "L/XL (UK 9-12)",
+          "option2": null,
+          "option3": null,
+          "sku": "PSM-SOCKS-M24-LRG-XL",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Performance Running Socks - Neon Pink - L/XL (UK 9-12)",
+          "public_title": "L/XL (UK 9-12)",
+          "options": [
+            "L/XL (UK 9-12)"
+          ],
+          "price": 1200,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5060761829642",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Puresport_Pink_Performance_Socks.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/PS_Socks.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/PS_Socks_2.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/PS_Socks_3.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/Puresport_PDP_86_9d32b4bd-3e38-49ac-aa0b-1277beb00033.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/Puresport_PDP_87_b1e9eef1-8315-41d4-8aef-1a7b9b61a0a6.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/Puresport_PDP_84_40d3d711-55ca-4308-939a-86e9d37daf9a.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/Puresport_PDP_83_ccd65f7f-8a6e-4111-be15-a13d029331b5.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/Puresport_PDP_85_49451a41-c27e-4c74-a1e3-7557c3f59058.jpg?v=1755692255",
+        "https://puresport.co/cdn/shop/files/Puresport_PDP_88_f467511a-7a2c-4c9e-ba88-5d912c14eab1.jpg?v=1755692255"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Puresport_Pink_Performance_Socks.jpg?v=1755692255",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": "Pair of bright pink socks with black Puresport branding, great for running. ",
+          "id": 67067625308547,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Puresport_Pink_Performance_Socks.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_Pink_Performance_Socks.jpg?v=1755692255",
+          "width": 2667
+        },
+        {
+          "alt": null,
+          "id": 27540846805130,
+          "position": 2,
+          "preview_image": {
+            "aspect_ratio": 0.667,
+            "height": 2560,
+            "width": 1707,
+            "src": "//puresport.co/cdn/shop/files/PS_Socks.jpg?v=1755692255"
+          },
+          "aspect_ratio": 0.667,
+          "height": 2560,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/PS_Socks.jpg?v=1755692255",
+          "width": 1707
+        },
+        {
+          "alt": null,
+          "id": 27540846641290,
+          "position": 3,
+          "preview_image": {
+            "aspect_ratio": 0.667,
+            "height": 2560,
+            "width": 1707,
+            "src": "//puresport.co/cdn/shop/files/PS_Socks_2.jpg?v=1755692255"
+          },
+          "aspect_ratio": 0.667,
+          "height": 2560,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/PS_Socks_2.jpg?v=1755692255",
+          "width": 1707
+        },
+        {
+          "alt": null,
+          "id": 27540846542986,
+          "position": 4,
+          "preview_image": {
+            "aspect_ratio": 0.667,
+            "height": 2560,
+            "width": 1707,
+            "src": "//puresport.co/cdn/shop/files/PS_Socks_3.jpg?v=1755692255"
+          },
+          "aspect_ratio": 0.667,
+          "height": 2560,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/PS_Socks_3.jpg?v=1755692255",
+          "width": 1707
+        },
+        {
+          "alt": null,
+          "id": 66714609484163,
+          "position": 5,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 1440,
+            "width": 1440,
+            "src": "//puresport.co/cdn/shop/files/Puresport_PDP_86_9d32b4bd-3e38-49ac-aa0b-1277beb00033.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 1440,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_PDP_86_9d32b4bd-3e38-49ac-aa0b-1277beb00033.jpg?v=1755692255",
+          "width": 1440
+        },
+        {
+          "alt": null,
+          "id": 66714609516931,
+          "position": 6,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 1440,
+            "width": 1440,
+            "src": "//puresport.co/cdn/shop/files/Puresport_PDP_87_b1e9eef1-8315-41d4-8aef-1a7b9b61a0a6.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 1440,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_PDP_87_b1e9eef1-8315-41d4-8aef-1a7b9b61a0a6.jpg?v=1755692255",
+          "width": 1440
+        },
+        {
+          "alt": null,
+          "id": 66714609549699,
+          "position": 7,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 1440,
+            "width": 1440,
+            "src": "//puresport.co/cdn/shop/files/Puresport_PDP_84_40d3d711-55ca-4308-939a-86e9d37daf9a.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 1440,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_PDP_84_40d3d711-55ca-4308-939a-86e9d37daf9a.jpg?v=1755692255",
+          "width": 1440
+        },
+        {
+          "alt": null,
+          "id": 66714609582467,
+          "position": 8,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 1440,
+            "width": 1440,
+            "src": "//puresport.co/cdn/shop/files/Puresport_PDP_83_ccd65f7f-8a6e-4111-be15-a13d029331b5.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 1440,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_PDP_83_ccd65f7f-8a6e-4111-be15-a13d029331b5.jpg?v=1755692255",
+          "width": 1440
+        },
+        {
+          "alt": null,
+          "id": 66714609615235,
+          "position": 9,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 1440,
+            "width": 1440,
+            "src": "//puresport.co/cdn/shop/files/Puresport_PDP_85_49451a41-c27e-4c74-a1e3-7557c3f59058.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 1440,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_PDP_85_49451a41-c27e-4c74-a1e3-7557c3f59058.jpg?v=1755692255",
+          "width": 1440
+        },
+        {
+          "alt": null,
+          "id": 66714609648003,
+          "position": 10,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 1440,
+            "width": 1440,
+            "src": "//puresport.co/cdn/shop/files/Puresport_PDP_88_f467511a-7a2c-4c9e-ba88-5d912c14eab1.jpg?v=1755692255"
+          },
+          "aspect_ratio": 1,
+          "height": 1440,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Puresport_PDP_88_f467511a-7a2c-4c9e-ba88-5d912c14eab1.jpg?v=1755692255",
+          "width": 1440
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

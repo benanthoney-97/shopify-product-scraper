@@ -1,0 +1,38 @@
+{
+  "url": "https://puresport.co/products/vitamin-d3-refill-bag-60-caps",
+  "handle": "vitamin-d3-refill-bag-60-caps",
+  "id": 8311952834698,
+  "title": "Vitamin D3 Refill Bag - 60 Caps",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "hidden",
+    "Supplement"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/VITAMIND33_ed89d190-a579-4189-8d5b-3954ed6a2bfb.jpg?v=1728988636"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/VITAMIND33_ed89d190-a579-4189-8d5b-3954ed6a2bfb.jpg?v=1728988636",
+  "variants": [
+    {
+      "id": 45548870729866,
+      "title": "1 Refill Bag",
+      "sku": "PSC-VITD3-REFILL-60CAPS",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015795553",
+      "options": [
+        "1 Refill Bag"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

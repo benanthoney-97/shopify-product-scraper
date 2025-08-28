@@ -1,0 +1,79 @@
+{
+  "url": "https://puresport.co/products/ultra-magnesium-7-day-trial-pack",
+  "handle": "ultra-magnesium-7-day-trial-pack",
+  "id": 14783820464515,
+  "title": "Ultra Magnesium Trial Pack",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "hidden",
+    "Supplement",
+    "YGroup_Magnesium"
+  ],
+  "price_from_cents": 800,
+  "price_from": "£8.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/2025_NewProductImages_TrialPacks.jpg?v=1755021694",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP.jpg?v=1755022014",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_2.jpg?v=1755022014",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_8_4126e0d2-91a7-499e-9083-df15af959747.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_9_deb697ab-770a-404a-8ee1-cdaf0fe9cfaf.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_6_8a3f3c3f-d28d-45fd-8387-09d6177119bc.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/V2_Puresport_DrSam2.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_3.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_4.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Howto_3.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_5_340774eb-22fa-41bf-b1cf-89403bea6dfb.jpg?v=1755032141",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_10_04d9c189-03d8-4ee9-815c-615c4e2df760.jpg?v=1755022014",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Trial_Pack_2.jpg?v=1755022014"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/2025_NewProductImages_TrialPacks.jpg?v=1755021694",
+  "variants": [
+    {
+      "id": 53269737308547,
+      "title": "1 Refill Bag",
+      "sku": "PSC-ULTMAGNESIUM-REFILL-7DAY",
+      "available": true,
+      "price_cents": 800,
+      "price": "£8.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796048",
+      "options": [
+        "1 Refill Bag"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Ultra Magnesium is designed to support recovery, sleep, muscle function, and overall energy metabolism. It contains a blend of three bioavailable forms of magnesium—Magnesium Citrate, Magnesium Bisglycinate, and Magnesium Taurate—paired with Beetroot Extract for enhanced athletic performance."
+    },
+    {
+      "heading": "Why we made this Product",
+      "body": "Magnesium plays a crucial role in over 300 biochemical reactions in the body, including muscle function, energy production, protein synthesis, and reducing fatigue. Athletes, especially those engaged in high-intensity activities, are often at risk of magnesium deficiency. Ultra Magnesium helps to optimise recovery, maintain electrolyte balance, and improve sleep quality—essential elements of long-term athletic performance."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Magnesium Citrate 110mg\nMagnesium Bisglycinate 95mg\nMagnesium Taurate 20mg\nBeetroot Powder (Beta vulgaris) 1000mg\nVitamin D3 (Cholecalciferol from algae) 10µg"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "For optimal results, take 3 capsules daily. For improved exercise performance, consume Ultra Magnesium 1 hour before exercise to enhance strength and endurance."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries"
+    }
+  ],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

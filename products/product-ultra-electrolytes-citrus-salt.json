@@ -1,0 +1,204 @@
+{
+  "url": "https://puresport.co/products/ultra-electrolytes-citrus-salt",
+  "handle": "ultra-electrolytes-citrus-salt",
+  "id": 8147461210250,
+  "title": "Ultra Electrolytes (30 pack) - Citrus Salt",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Endurance",
+    "filter:Hydration",
+    "filter:Performance",
+    "has_free_item",
+    "Hydration",
+    "Performance",
+    "Supplement",
+    "YGroup_Electrolytes"
+  ],
+  "price_from_cents": 3300,
+  "price_from": "£33.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Citrus_Ultra_Electrolytes_43b6a2c6-d165-4d9d-81cd-a4557973e27f.jpg?v=1752845793",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Citrus_Ultra_Electrolytes_3_0eb6245a-5409-4875-b95c-47d676b84bb7.jpg?v=1752845793",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Citrus_Ultra_Electrolytes_4_dcee4253-64d9-47a3-b61f-8d5e467b88fc.jpg?v=1752845793",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultra_Electrolytes_4.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Citrus_Ultra_Electrolytes_5_2087a9a3-119e-47b7-80cd-a8c368593309.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_26.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_24.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_23.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_25.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_27.jpg?v=1755007181",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_28.jpg?v=1755007181"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Citrus_Ultra_Electrolytes_43b6a2c6-d165-4d9d-81cd-a4557973e27f.jpg?v=1752845793",
+  "variants": [
+    {
+      "id": 45193972088970,
+      "title": "Default Title",
+      "sku": "PSC-ULTRAELEC-CITRUS-30PK",
+      "available": true,
+      "price_cents": 3300,
+      "price": "£33.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015794273",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Electrolytes Citrus Salt is a scientifically formulated electrolyte solution designed for athletes and active individuals who require optimal hydration during exercise. With a balanced combination of sodium, potassium, magnesium, and calcium, this citrus-flavoured electrolyte drink replenishes essential minerals lost during sweat, helping to maintain hydration, muscle function, and endurance. The citrus flavour provides a refreshing, light taste while delivering an effective dose of electrolytes."
+    },
+    {
+      "heading": "Why we Made this Product",
+      "body": "Hydration is crucial for maintaining performance, particularly during intense or prolonged physical activity. Electrolytes like sodium and potassium are essential to prevent dehydration and muscle cramps, which are common issues in endurance sports. Puresport’s Ultra Electrolytes Citrus Salt is designed to keep athletes hydrated, improve endurance, and support muscle function with a sugar-free, refreshing citrus formula.\nWe developed this product to ensure that active individuals can maintain peak performance by staying properly hydrated, even under challenging conditions. The Citrus Salt variant offers a zesty, refreshing flavour while providing a high dose of sodium for effective hydration."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "Sodium (Chloride) 1000mg\nPotassium (Chloride) 250mg\nMagnesium (Citrate) 100mg\nCalcium (Malate) 50mg\nZero Sugar\nNatural Sweetener (Steviol Glycosides)*\nNatural Lemon & Lime Flavouring & Natural Orange Flavouring"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "Mix one sachet of Ultra Electrolytes Citrus Salt with 500ml of water 30 minutes before exercise for optimal hydration. During prolonged or high-intensity activities, an additional sachet may be consumed to replace electrolytes lost through sweat. Do not exceed 2 sachets per day without consulting a medical professional."
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710957990275",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": "£23.10",
+    "price_current_cents": 2310,
+    "price_compare_at": "£33.00",
+    "price_compare_at_cents": 3300,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": "£0.00",
+        "price_now_cents": 0
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": "£33.00",
+        "price_was_cents": 3300,
+        "price_now": "£23.10",
+        "price_now_cents": 2310
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": "£33.00",
+        "price_was_cents": 3300,
+        "price_now": "£29.70",
+        "price_now_cents": 2970
+      }
+    ],
+    "ongoing": [
+      "2 packs, Shipped Quarterly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://puresport.co/products/run-club-clapham",
+  "handle": "run-club-clapham",
+  "id": 7691506679946,
+  "title": "Puresport Clapham",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [
+    "event",
+    "runclub"
+  ],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NEW-WeeklySchedule_October17.jpg?v=1704710383"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/NEW-WeeklySchedule_October17.jpg?v=1704710383",
+  "variants": [
+    {
+      "id": 42831825404042,
+      "title": "Yes I am",
+      "sku": "",
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "",
+      "options": [
+        "Yes I am"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

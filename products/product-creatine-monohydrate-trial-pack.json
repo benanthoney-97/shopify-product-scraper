@@ -1,0 +1,78 @@
+{
+  "url": "https://puresport.co/products/creatine-monohydrate-trial-pack",
+  "handle": "creatine-monohydrate-trial-pack",
+  "id": 15085218398595,
+  "title": "Creatine Monohydrate Trial Pack",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "Endurance",
+    "filter:Performance",
+    "hidden",
+    "Performance",
+    "Strength",
+    "Supplement",
+    "YGroup_Creatine"
+  ],
+  "price_from_cents": 800,
+  "price_from": "£8.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Creatine_1.jpg?v=1755022946",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_39.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_40.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_48_40a4e4b0-3fe5-4ff2-8818-f9e41b4d069f.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_46_407d0b5a-b916-43ac-a5b4-497187c6b555.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_44_67213f86-8be6-469f-98a1-3ed495770b29.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/V2_Puresport_Dr_Sam4.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_42.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_41.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_47_fd51bc82-0944-42c7-a096-783e97680d37.jpg?v=1755032222",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Trial_Pack_4.jpg?v=1755022946",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_43_1e68e396-b919-4546-8026-0233cc344b7f.jpg?v=1755022946"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Creatine_1.jpg?v=1755022946",
+  "variants": [
+    {
+      "id": 55202200682883,
+      "title": "Default Title",
+      "sku": "PSM-CREATINE-TRIALPACK-BOX-7DAY",
+      "available": true,
+      "price_cents": 800,
+      "price": "£8.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798066",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Creatine Monohydrate fuels power, endurance, and recovery. Backed by decades of research, it increases ATP availability, enhances power output, and improves muscular endurance. Studies show it delays fatigue, optimizes glycogen storage, and accelerates muscle repair, making it an essential supplement for sustained performance. Each serving delivers 5g of pure creatine monohydrate, formulated to support energy production, accelerate recovery, and optimise glycogen replenishment."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Creatine is one of the most researched supplements in sports science. While widely recognized for improving power output, studies show it also enhances endurance performance, recovery, and glycogen re-synthesis, key adaptations for sustained effort."
+    },
+    {
+      "heading": "Full ingredients list",
+      "body": "Creatine Monohydrate (5g per serving)"
+    },
+    {
+      "heading": "How to take",
+      "body": "Mix 5g (one sachet) with water or a carbohydrate-based drink. Consume daily for sustained benefits. For improved creatine retention, take with a carbohydrate source."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund. Please reference our Shipping and Returns page for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

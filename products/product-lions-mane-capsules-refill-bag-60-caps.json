@@ -1,0 +1,38 @@
+{
+  "url": "https://puresport.co/products/lions-mane-capsules-refill-bag-60-caps",
+  "handle": "lions-mane-capsules-refill-bag-60-caps",
+  "id": 7851490771082,
+  "title": "Lion's Mane Capsules Refill Bag - 60 Caps",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "gut",
+    "Mushrooms",
+    "salecollection",
+    "Supplement"
+  ],
+  "price_from_cents": 3500,
+  "price_from": "£35.00",
+  "currency": null,
+  "images": [],
+  "featured_image": null,
+  "variants": [
+    {
+      "id": 44030189305994,
+      "title": "1 Refill Bag",
+      "sku": "PSC-LIONSMANE-REFILL-60",
+      "available": false,
+      "price_cents": 3500,
+      "price": "£35.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015792378",
+      "options": [
+        "1 Refill Bag"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

@@ -1,0 +1,64 @@
+{
+  "url": "https://puresport.co/products/nalgene-bottle-seafoam",
+  "handle": "nalgene-bottle-seafoam",
+  "id": 8308669415562,
+  "title": "Nalgene Water Bottle - Seafoam",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Water Bottle",
+    "live",
+    "Water Bottle",
+    "YGroup_bottles"
+  ],
+  "price_from_cents": 2500,
+  "price_from": "£25.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel32.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IMG_4860.png?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/44.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/45.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/48.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/50.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/47.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/46.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/43.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/IMG_4849.jpg?v=1755691137",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Seafoam_Nalgene_1.png?v=1755691137"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Apparel32.jpg?v=1755691137",
+  "variants": [
+    {
+      "id": 45535786107018,
+      "title": "Default Title",
+      "sku": "PSA-NALGENE-SEAFOAM-1L",
+      "available": true,
+      "price_cents": 2500,
+      "price": "£25.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796468",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Our iconic Salty Pace Nalgene bottle is here in our latest colourway - Seafoam. BPA free and dishwasher safe, this is a staple in any exercise and recovery routine."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- BPA/BPS Free\n- Dishwasher Safe\n- Leakproof guarantee\n- Lightweight\n- Fits ice cubes"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnused items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

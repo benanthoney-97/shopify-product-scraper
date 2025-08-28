@@ -1,0 +1,38 @@
+{
+  "url": "https://puresport.co/products/run-club-hackney",
+  "handle": "run-club-hackney",
+  "id": 8252281421962,
+  "title": "Puresport Hackney",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [
+    "event",
+    "runclub"
+  ],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/HACKNEY_Mob_Community8.jpg?v=1722444943"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/HACKNEY_Mob_Community8.jpg?v=1722444943",
+  "variants": [
+    {
+      "id": 45320343519370,
+      "title": "General Admission",
+      "sku": "",
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": null,
+      "options": [
+        "General Admission"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

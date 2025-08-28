@@ -1,0 +1,63 @@
+{
+  "url": "https://puresport.co/products/performance-sexy-pace-socks-white",
+  "handle": "performance-sexy-pace-socks-white",
+  "id": 7736511463562,
+  "title": "Performance Sexy Pace Socks - White",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "Archive Drop",
+    "filter:Socks",
+    "Socks",
+    "YGroup_socks"
+  ],
+  "price_from_cents": 1200,
+  "price_from": "£12.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Socks_Flatlay_Resizes7.jpg?v=1729700651",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/DSC03376.jpg?v=1720798393",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/DSC03359.jpg?v=1720798393",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/desktop-review-3.png?v=1745942717",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/desktop-review-6.png?v=1745942717",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/desktop-review-1.png?v=1745942717",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/desktop-review-2.png?v=1745942717",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/desktop-review-4.png?v=1745942717",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/desktop-review-5.png?v=1745942717"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Socks_Flatlay_Resizes7.jpg?v=1729700651",
+  "variants": [
+    {
+      "id": 44939289755786,
+      "title": "S/M (UK 4-8)",
+      "sku": "PSM-SOCKS-M37-SM-MD",
+      "available": false,
+      "price_cents": 1200,
+      "price": "£12.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015794365",
+      "options": [
+        "S/M (UK 4-8)"
+      ]
+    },
+    {
+      "id": 44870309150858,
+      "title": "L/XL (UK 9-12)",
+      "sku": "PSM-SOCKS-M37-LRG-XL",
+      "available": false,
+      "price_cents": 1200,
+      "price": "£12.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015790886",
+      "options": [
+        "L/XL (UK 9-12)"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

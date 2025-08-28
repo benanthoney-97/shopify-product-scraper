@@ -1,0 +1,203 @@
+{
+  "url": "https://puresport.co/products/cognitive-performance-bundle",
+  "handle": "cognitive-performance-bundle",
+  "id": 15017905848707,
+  "title": "Cognitive Performance Bundle",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Bundle",
+    "Cognitive",
+    "filter:Performance",
+    "focus",
+    "has_free_item",
+    "Performance",
+    "Supplement",
+    "YGroup_Ashwagandha"
+  ],
+  "price_from_cents": 5500,
+  "price_from": "£55.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Bundles_CognitivePerformance.jpg?v=1742909887",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_CognitivePerformanceBundle.jpg?v=1742909887",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraAshwagandha2.jpg?v=1751836657",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraAshwagandha.jpg?v=1751836657",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Lion_sMane.jpg?v=1751836879",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Lion_sMane2.jpg?v=1751836899",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_23.jpg?v=1746995282",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_22.jpg?v=1746995282",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_20.jpg?v=1746995282",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FAQ_Bundle_21.jpg?v=1746995282",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_LionsMaine_1.jpg?v=1751836899",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_LionsMaine_2.jpg?v=1753028584",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_1.jpg?v=1746995282",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Ashwagandha_2.jpg?v=1746995282"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Bundles_CognitivePerformance.jpg?v=1742909887",
+  "variants": [
+    {
+      "id": 54989280182659,
+      "title": "Default Title",
+      "sku": "PSB-COGNITIVEPERFORMANCE-BUNDLE",
+      "available": false,
+      "price_cents": 5500,
+      "price": "£55.00",
+      "compare_at_price_cents": 6000,
+      "compare_at_price": "£60.00",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Boost mental clarity and resilience with our Cognitive Performance Bundle, designed to enhance cognitive function, manage stress and support recovery with our bestselling Ultra Ashwagandha and Lion's Mane capsules."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Ashwagandha is widely known for its adaptogenic properties, helping the body manage stress, improve resilience, and enhance recovery. With the constant physical and mental demands placed on athletes and active individuals, the need for effective stress management is crucial. Chronic stress can lead to fatigue, reduced performance, and impaired recovery, all of which negatively impact athletic goals.\nWe paired this with Lion's Mane, which has has been used for centuries in traditional medicine for its cognitive and neurological benefits. In today’s fast-paced world, where mental performance is just as important as physical performance, athletes and active individuals require supplements that not only support the body but also the mind.\nPaired together, this bundle is  ideal for promoting mental clarity, improving memory, and reducing stress."
+    },
+    {
+      "heading": "Full Ingredients list",
+      "body": "Ultra Ashwagandha:\nKSM-66 Ashwagandha 12:1 Extract, Withanolides min 5% 500mg\nHoly Basil 5:1 Extract 300mg\nElemental Magnesium (Magnesium Oxide) 100mg\nElemental Zinc (Zinc Citrate) 10mg\nLion's Mane for the brain:\nLion's Mane (8:1 Extract) 3000mg\nIncluding: Polysaccharides 75mg\nIncluding: Beta-Glucans 75mg\nIncluding: Triterpenes 75mg"
+    },
+    {
+      "heading": "How to take",
+      "body": "Ultra Ashwagandha:\nFor optimal results, take 2 capsules daily with food. This helps maximise absorption and minimises any potential side effects such as nausea. Due to its mildly stimulating effects, it’s best taken in the morning to enhance both physical and mental energy throughout the day.\nLion's Mane:\nFor optimal results, take 2 capsules daily with food to aid absorption. Due to its cognitive-enhancing effects, it is best taken in the morning to support mental clarity and focus throughout the day."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710925320579",
+    "banner": "GET 30% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": "£38.50",
+    "price_current_cents": 3850,
+    "price_compare_at": "£55.00",
+    "price_compare_at_cents": 5500,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": "£0.00",
+        "price_now_cents": 0
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": "£55.00",
+        "price_was_cents": 5500,
+        "price_now": "£38.50",
+        "price_now_cents": 3850
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": "£55.00",
+        "price_was_cents": 5500,
+        "price_now": "£49.50",
+        "price_now_cents": 4950
+      }
+    ],
+    "ongoing": [
+      "2 Bundles, Shipped Bi-Monthly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

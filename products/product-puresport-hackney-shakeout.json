@@ -1,0 +1,35 @@
+{
+  "url": "https://puresport.co/products/puresport-hackney-shakeout",
+  "handle": "puresport-hackney-shakeout",
+  "id": 15218151752067,
+  "title": "Puresport Hackney Shakeout",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Website_Weekend2.jpg?v=1747300527"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Website_Weekend2.jpg?v=1747300527",
+  "variants": [
+    {
+      "id": 55573099643267,
+      "title": "General Admission",
+      "sku": null,
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": null,
+      "options": [
+        "General Admission"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

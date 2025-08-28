@@ -1,0 +1,46 @@
+{
+  "url": "https://puresport.co/products/sports-bottle-matte-white",
+  "handle": "sports-bottle-matte-white",
+  "id": 14680996348291,
+  "title": "Sports Bottle - Matte White",
+  "vendor": "Puresport",
+  "product_type": "hidden",
+  "tags": [
+    "Apparel",
+    "hidden",
+    "Water Bottle",
+    "YBlocklist",
+    "YGroup_Sportsbottle"
+  ],
+  "price_from_cents": 1500,
+  "price_from": "£15.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Website_Bottles.jpg?v=1756306714"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Apparel_Website_Bottles.jpg?v=1756306714",
+  "variants": [
+    {
+      "id": 54996577321347,
+      "title": "720ml Bottle",
+      "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+      "available": true,
+      "price_cents": 1500,
+      "price": "£15.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015796505",
+      "options": [
+        "720ml Bottle"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Key Features",
+      "body": "- 720ml liquid capacity\n- Please note this product is not dishwasher safe"
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

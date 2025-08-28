@@ -1,0 +1,45 @@
+{
+  "url": "https://puresport.co/products/10-week-half-marathon-plan",
+  "handle": "10-week-half-marathon-plan",
+  "id": 15037003465091,
+  "title": "10-Week Half Marathon Plan",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [
+    "event",
+    "TrainingPlan"
+  ],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_9-16__Blogs_11.jpg?v=1739722273",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_1-1__Blogs_7.jpg?v=1739722273",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_1-1__Blogs_9.jpg?v=1739722273"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/6_2_9-16__Blogs_11.jpg?v=1739722273",
+  "variants": [
+    {
+      "id": 55059724239235,
+      "title": "Default Title",
+      "sku": "",
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Event Information",
+      "body": "Starting Half Marathon training? Download our FREE 10-Week Training Plan to help you structure your training and smash your goals."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

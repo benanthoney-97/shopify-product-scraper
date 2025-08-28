@@ -1,0 +1,35 @@
+{
+  "url": "https://puresport.co/products/cheerzone",
+  "handle": "cheerzone",
+  "id": 15194861994371,
+  "title": "Puresport Marathon Cheerzone",
+  "vendor": "Event",
+  "product_type": "Event",
+  "tags": [],
+  "price_from_cents": 0,
+  "price_from": "£0.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Cheer_Zone_13.jpg?v=1745602306"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Cheer_Zone_13.jpg?v=1745602306",
+  "variants": [
+    {
+      "id": 55435128930691,
+      "title": "General Admission",
+      "sku": null,
+      "available": true,
+      "price_cents": 0,
+      "price": "£0.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": null,
+      "options": [
+        "General Admission"
+      ]
+    }
+  ],
+  "sections": [],
+  "subscription": null,
+  "one_time": null
+}

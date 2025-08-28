@@ -1,0 +1,141 @@
+{
+  "url": "https://puresport.co/products/the-real-runners-high-hoodie",
+  "handle": "the-real-runners-high-hoodie",
+  "id": 14849775960451,
+  "title": "The Real Runner's High Hoodie",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Hoodies & Sweatshirts",
+    "Hoodies & Sweatshirts"
+  ],
+  "price_from_cents": 9500,
+  "price_from": "£95.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runner_s_High_Flat_Lays7.jpg?v=1738232529",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runner_s_High_Flat_Lays8_39362063-452e-4f04-90a4-c1e057fb593f.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runners_High25.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runners_High22.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runners_High24.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runners_High26.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runner_s_High_Flat_Lays10.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runner_s_High_Flat_Lays9.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/PuresportApparel_TheRealRunnersHigh21.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/PuresportApparel_TheRealRunnersHigh20.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/PuresportApparel_TheRealRunnersHigh19.jpg?v=1738264877",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/PuresportApparel_TheRealRunnersHigh18.jpg?v=1738264877"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_The_Real_Runner_s_High_Flat_Lays7.jpg?v=1738232529",
+  "variants": [
+    {
+      "id": 54864283369859,
+      "title": "XS",
+      "sku": "PSM-RUNNERSHIGH-HOODIE-WASHEDBROWN-OCT24-XS",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797090",
+      "options": [
+        "XS"
+      ]
+    },
+    {
+      "id": 54864283402627,
+      "title": "S",
+      "sku": "PSM-RUNNERSHIGH-HOODIE-WASHEDBROWN-OCT24-S",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797106",
+      "options": [
+        "S"
+      ]
+    },
+    {
+      "id": 54864283435395,
+      "title": "M",
+      "sku": "PSM-RUNNERSHIGH-HOODIE-WASHEDBROWN-OCT24-M",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797113",
+      "options": [
+        "M"
+      ]
+    },
+    {
+      "id": 54864283468163,
+      "title": "L",
+      "sku": "PSM-RUNNERSHIGH-HOODIE-WASHEDBROWN-OCT24-L",
+      "available": true,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797120",
+      "options": [
+        "L"
+      ]
+    },
+    {
+      "id": 54864283500931,
+      "title": "XL",
+      "sku": "PSM-RUNNERSHIGH-HOODIE-WASHEDBROWN-OCT24-XL",
+      "available": false,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797137",
+      "options": [
+        "XL"
+      ]
+    },
+    {
+      "id": 54864283533699,
+      "title": "2XL",
+      "sku": "PSM-RUNNERSHIGH-HOODIE-WASHEDBROWN-OCT24-XXL",
+      "available": false,
+      "price_cents": 9500,
+      "price": "£95.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015797144",
+      "options": [
+        "2XL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "This retro-inspired hoodie is designed for warm-ups and cool-downs. Featuring a relaxed drop-shoulder silhouette and overdyed tonal finish, it delivers a vintage, worn-in aesthetic. Crafted from brushed 420gsm cotton jersey milled in Portugal, it boasts a fade-out wash for added softness. Embellished with our signature Real Runners High tonal embroidery. Suitable for light activity and recovery."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- Front kangaroo pocket\n- Double layer hood\n- Pre-shrunk\n- Stitched branding\n- Ribbed cuffs & hem\n- 100% Organic Cotton\n- Origin: Portugal\n- Produced: Portugal"
+    },
+    {
+      "heading": "Size Table",
+      "body": "Size (cm)\nXS\nS\nM\nL\nXL\n2XL\nLength\n61\n63\n65\n67\n69\n72\nChest\n57\n59\n61\n63\n65\n67\nShoulders\n60\n62\n64\n66\n68\n70\nSleeve\n55\n56\n57\n58\n59\n60"
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Bleach\n                                Do Not Tumble Dry\n                                Machine Wash (30°C Delicate)"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnworn items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

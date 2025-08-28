@@ -1,0 +1,139 @@
+{
+  "url": "https://puresport.co/products/for-the-long-run-lightweight-t-shirt-white",
+  "handle": "for-the-long-run-lightweight-t-shirt-white",
+  "id": 15090985206147,
+  "title": "For the Long Run Lightweight T-Shirt - Star White",
+  "vendor": "Puresport",
+  "product_type": "Apparel drop",
+  "tags": [
+    "Apparel",
+    "filter:Tops & T-shirts",
+    "FTLR",
+    "Tops & T-shirts"
+  ],
+  "price_from_cents": 5000,
+  "price_from": "£50.00",
+  "currency": null,
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FortheLongRun_Tee.jpg?v=1743163140",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FortheLongRun_Tee2.jpg?v=1743163140",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FortheLongRun_Tee8.jpg?v=1743163140",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FortheLongRun_Tee9.jpg?v=1743163140",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FortheLongRun_Tee10.jpg?v=1743163140"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_FortheLongRun_Tee.jpg?v=1743163140",
+  "variants": [
+    {
+      "id": 55223669031299,
+      "title": "XS",
+      "sku": "PSM-FTLR-COTTONTEE-WHT-XS",
+      "available": false,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798097",
+      "options": [
+        "XS"
+      ]
+    },
+    {
+      "id": 55223669064067,
+      "title": "S",
+      "sku": "PSM-FTLR-COTTONTEE-WHT-S",
+      "available": false,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798103",
+      "options": [
+        "S"
+      ]
+    },
+    {
+      "id": 55223669096835,
+      "title": "M",
+      "sku": "PSM-FTLR-COTTONTEE-WHT-M",
+      "available": false,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798110",
+      "options": [
+        "M"
+      ]
+    },
+    {
+      "id": 55223669129603,
+      "title": "L",
+      "sku": "PSM-FTLR-COTTONTEE-WHT-L",
+      "available": true,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798127",
+      "options": [
+        "L"
+      ]
+    },
+    {
+      "id": 55223669162371,
+      "title": "XL",
+      "sku": "PSM-FTLR-COTTONTEE-WHT-XL",
+      "available": false,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798134",
+      "options": [
+        "XL"
+      ]
+    },
+    {
+      "id": 55223669195139,
+      "title": "2XL",
+      "sku": "PSM-FTLR-COTTONTEE-WHT-XXL",
+      "available": true,
+      "price_cents": 5000,
+      "price": "£50.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015798141",
+      "options": [
+        "2XL"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "An instant classic, this lightweight tee effortlessly blends casual style and functionality. Crafted from an extremely breathable and lightweight 140gsm organic cotton jersey, milled in Portugal. Featuring our signature garment-dyed finish with a subtle fade-out for a vintage aesthetic. The relaxed silhouette, wider body, and dropped shoulders guarantee ultimate comfort. Completed with our distinctive \"For the Long Run\" graphic on the front and subtle Puresport branding at the back neck."
+    },
+    {
+      "heading": "Key Features",
+      "body": "Key features\n- Pre-shrunk 140gsm Organic Cotton\n- Single Layer Silk Screen Logo\n- Boxy fit, cut wider in the body\n- Slight drop shoulder\n- Slightly Oversized Fit\n- Origin: Portugal\n- Manufactured: Portugal"
+    },
+    {
+      "heading": "Size Table",
+      "body": "Size (cm)\nXS\nS\nM\nL\nXL\n2XL\nLength\n66\n68\n70\n72\n74\n76\nChest\n54\n56\n58\n60\n63\n66\nShoulders\n50.5\n52\n53.5\n55\n56.5\n58\nSleeve\n20\n21\n22\n23\n24\n25"
+    },
+    {
+      "heading": "Model Info",
+      "body": "Montell is 6'2\" wearing a size Large\nCiara is 5'9\" wearing a size Small"
+    },
+    {
+      "heading": "Care Instructions",
+      "body": "Do Not Bleach\n                                Do Not Tumble Dry\n                                Machine Wash (30°C Delicate)"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\nUnworn items can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": null,
+  "one_time": null
+}

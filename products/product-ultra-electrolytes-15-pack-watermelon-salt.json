@@ -1,0 +1,205 @@
+{
+  "url": "https://puresport.co/products/ultra-electrolytes-15-pack-watermelon-salt",
+  "handle": "ultra-electrolytes-15-pack-watermelon-salt",
+  "id": 15336316109187,
+  "title": "Ultra Electrolytes (15 pack) - Watermelon Salt",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Endurance",
+    "filter:Hydration",
+    "has_free_item",
+    "hidden",
+    "Hydration",
+    "Performance",
+    "Supplement",
+    "YGroup_Electrolytes"
+  ],
+  "price_from_cents": 2000,
+  "price_from": "£20.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/2025_Watermelon.jpg?v=1755180400",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Watermelon_1.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraElectrolytes_12.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraElectrolytes_10.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/V2_Puresport_DrSam_1.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_UltraElectrolytes_Watermelon.jpg?v=1756308814",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_38.jpg?v=1756308800",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_37.jpg?v=1756308800",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_36.jpg?v=1756308800",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_34.jpg?v=1756308800",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_33.jpg?v=1756308800",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Ultra_Electrolytes_5.jpg?v=1756308800"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/2025_Watermelon.jpg?v=1755180400",
+  "variants": [
+    {
+      "id": 56234086990211,
+      "title": "Default Title",
+      "sku": "PSC-ULTRAELEC-WMELON-15PK",
+      "available": true,
+      "price_cents": 2000,
+      "price": "£20.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5061015799124",
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Electrolytes Watermelon Salt is designed for athletes and active individuals seeking optimal hydration during exercise. This sugar-free electrolyte formula delivers a precise ratio of key minerals like sodium, potassium, magnesium, and calcium, supporting fluid balance and preventing dehydration. The raspberry salt flavour provides a refreshing taste without compromising the high dose of sodium essential for performance."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Hydration is crucial for maintaining performance, particularly during intense or prolonged physical activity. Electrolytes like sodium and potassium are essential to prevent dehydration and muscle cramps, which are common issues in endurance sports. Puresport’s Ultra Electrolytes Watermelon Salt is designed to keep athletes hydrated, improve endurance, and support muscle function with a sugar-free, refreshing watermelon formula."
+    },
+    {
+      "heading": "Full ingredients list",
+      "body": "Sodium (Chloride) 1000mg\nPotassium (Chloride) 250mg\nMagnesium (Citrate) 100mg\nTri-Calcium (Citrate) 50mg\nAcidity Regulator (Malic Acid)\nNatural Sweetener (Stevia)\nNatural Watermelon Flavouring"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to take",
+      "body": "Mix one sachet of Ultra Electrolytes Watermelon Salt with 450-900ml of water 30 minutes before exercise for optimal hydration. During prolonged or high-intensity activities, an additional sachet may be consumed to replace electrolytes lost through sweat. Do not exceed 2 sachets per day without consulting a medical professional."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50. 100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you. Unopened products can be returned within 21 days of delivery for a full refund. Please reference our Shipping and Returns page."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710925320579",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": "£14.00",
+    "price_current_cents": 1400,
+    "price_compare_at": "£20.00",
+    "price_compare_at_cents": 2000,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": "£0.00",
+        "price_now_cents": 0
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": "£20.00",
+        "price_was_cents": 2000,
+        "price_now": "£14.00",
+        "price_now_cents": 1400
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": "£20.00",
+        "price_was_cents": 2000,
+        "price_now": "£18.00",
+        "price_now_cents": 1800
+      }
+    ],
+    "ongoing": [
+      "2 Packs, Shipped Bi-Monthly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

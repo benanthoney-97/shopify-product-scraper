@@ -1,0 +1,214 @@
+{
+  "url": "https://puresport.co/products/unwind-capsules",
+  "handle": "unwind-capsules",
+  "id": 6770936381578,
+  "title": "Unwind Nootropic Capsules",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "100% Natural",
+    "3rd Party Lab Tested",
+    "Capsules",
+    "filter:Sleep",
+    "has_free_item",
+    "no-discount",
+    "nootropics",
+    "Relax",
+    "sleep",
+    "Supplement",
+    "under-90",
+    "Vegan",
+    "Vegetarian",
+    "YGroup_Unwind",
+    "zinc"
+  ],
+  "price_from_cents": 3000,
+  "price_from": "£30.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_1.jpg?v=1746995505",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Unwind_60ca444d-66f9-4abe-b168-4f66a36e4b81.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_89_1.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_90_1.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_91_1.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_92_1.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_96_807d32ba-1fbd-425a-99dc-9e1d28570fa7.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_94_e5361ed1-2a51-4bbb-be93-e8247fbbd879.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_95_3f07d41e-21dc-4cfe-9ceb-ced1df454d04.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_97_b5436d8f-61b2-4d90-8308-05bab7be8cd1.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_93.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_3.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_4.jpg?v=1755011009",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_2.jpg?v=1755011009"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Unwind_1.jpg?v=1746995505",
+  "variants": [
+    {
+      "id": 40759584161930,
+      "title": "1 Jar",
+      "sku": "PSC-UNWINDCAPS-60",
+      "available": true,
+      "price_cents": 3000,
+      "price": "£30.00",
+      "compare_at_price_cents": null,
+      "compare_at_price": "",
+      "barcode": "5060761821622",
+      "options": [
+        "1 Jar"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Unwind capsules are formulated with natural ingredients, including L-Theanine, Montmorency Cherry, and KSM-66 Ashwagandha, designed to promote relaxation, improve sleep quality, and enhance recovery. This supplement supports runners and athletes seeking better rest and rejuvenation."
+    },
+    {
+      "heading": "Why we Made this Product",
+      "body": "Sleep plays a crucial role in overall health and performance, impacting recovery, cognitive function, and mental well-being. Runners and athletes, in particular, require restorative sleep to perform at their best. Puresport’s Unwind Sleep Capsules are designed to support sleep quality, reduce stress, and aid recovery through a combination of well-researched natural ingredients.By formulating this product, we aim to help individuals optimise their recovery and maintain high levels of performance through better rest. The ingredients have been selected for their scientifically supported effects on sleep improvement, stress reduction, and cognitive enhancement, ensuring a product that delivers on its promise."
+    },
+    {
+      "heading": "Full Ingredients List",
+      "body": "L-Theanine (Camellia Sinensis, from 250mg of an 80-120:1 Green Tea Extract) 200mg\nMontmorency Cherry (Prunus Cerasus) 200mg\nKSM-66 Ashwagandha (Withania Somnifera) 200mg\nBacopa Monnieri 200mg\nBlack Pepper 16mg\nZinc (Zinc Oxide) 4mg\nIodine (Potassium Iodide) 100mcg"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to Take",
+      "body": "Take 2 capsules 30 minutes before bed for best results. This product can be used daily for consistent benefits to sleep and recovery"
+    },
+    {
+      "heading": "Shipping and Returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund.\nPlease reference our Shipping and Returns page here for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710925320579",
+    "banner": "GET 40% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": null,
+    "price_current_cents": null,
+    "price_compare_at": null,
+    "price_compare_at_cents": null,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": null,
+        "price_was_cents": null,
+        "price_now": null,
+        "price_now_cents": null
+      }
+    ],
+    "ongoing": [
+      "2 Jars, Shipped Bi-Monthly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": {
+      "id": 14680996348291,
+      "title": "Sports Bottle - Matte White",
+      "handle": "sports-bottle-matte-white",
+      "description": "",
+      "published_at": "2025-08-27T15:59:12+01:00",
+      "created_at": "2024-10-15T12:19:59+01:00",
+      "vendor": "Puresport",
+      "type": "hidden",
+      "tags": [
+        "Apparel",
+        "hidden",
+        "Water Bottle",
+        "YBlocklist",
+        "YGroup_Sportsbottle"
+      ],
+      "price": 1500,
+      "price_min": 1500,
+      "price_max": 1500,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": null,
+      "compare_at_price_min": 0,
+      "compare_at_price_max": 0,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 54996577321347,
+          "title": "720ml Bottle",
+          "option1": "720ml Bottle",
+          "option2": null,
+          "option3": null,
+          "sku": "PSA-SALTYPACE-PFORMBOTTLE-WHT-720",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Sports Bottle - Matte White - 720ml Bottle",
+          "public_title": "720ml Bottle",
+          "options": [
+            "720ml Bottle"
+          ],
+          "price": 1500,
+          "weight": 0,
+          "compare_at_price": null,
+          "inventory_management": "shopify",
+          "barcode": "5061015796505",
+          "requires_selling_plan": false,
+          "selling_plan_allocations": [],
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          }
+        }
+      ],
+      "images": [
+        "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+      ],
+      "featured_image": "https://puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+      "options": [
+        "Size"
+      ],
+      "media": [
+        {
+          "alt": null,
+          "id": 67169362739587,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 1,
+            "height": 2667,
+            "width": 2667,
+            "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714"
+          },
+          "aspect_ratio": 1,
+          "height": 2667,
+          "media_type": "image",
+          "src": "//puresport.co/cdn/shop/files/Apparel_Website_Bottles.jpg?v=1756306714",
+          "width": 2667
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": [],
+      "content": ""
+    }
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://puresport.co/products/ultra-electrolytes-60-pack-raspberry-salt",
+  "handle": "ultra-electrolytes-60-pack-raspberry-salt",
+  "id": 15061381480835,
+  "title": "Ultra Electrolytes (60 pack) - Raspberry Salt",
+  "vendor": "Puresport",
+  "product_type": "Vitamins & Supplements",
+  "tags": [
+    "Endurance",
+    "filter:Hydration",
+    "filter:Performance",
+    "hidden",
+    "Hydration",
+    "MultiItemBundle",
+    "Performance",
+    "Supplement",
+    "YGroup_Electrolytes"
+  ],
+  "price_from_cents": 6000,
+  "price_from": "£60.00",
+  "currency": "GBP",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Electrolytes_3.jpg?v=1751836819",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes.jpg?v=1751836819",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes2.jpg?v=1755007094",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_60Pack_UltraElectrolytes.jpg?v=1756294263",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes3.jpg?v=1756294263",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Electrolytes4.jpg?v=1756294263",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_33_4ee041c5-3501-4f4e-a7c3-a2806f3b3375.jpg?v=1756294263",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_36_4b8f9359-d662-4dad-a24f-71005908170a.jpg?v=1756294263",
+    "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_PDP_37_5ad5127a-bd65-41c9-8dc9-de94b890aead.jpg?v=1756294263"
+  ],
+  "featured_image": "https://cdn.shopify.com/s/files/1/0569/3056/6282/files/Puresport_Products_Electrolytes_3.jpg?v=1751836819",
+  "variants": [
+    {
+      "id": 55129695191427,
+      "title": "Default Title",
+      "sku": "PSB-ULTRAELEC-RBERRY-60PK",
+      "available": true,
+      "price_cents": 6000,
+      "price": "£60.00",
+      "compare_at_price_cents": 6600,
+      "compare_at_price": "£66.00",
+      "barcode": null,
+      "options": [
+        "Default Title"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Description",
+      "body": "Puresport's Ultra Electrolytes Raspberry Salt is designed for athletes and active individuals seeking optimal hydration during exercise. This sugar-free electrolyte formula delivers a precise ratio of key minerals like sodium, potassium, magnesium, and calcium, supporting fluid balance and preventing dehydration. The raspberry salt flavour provides a refreshing taste without compromising the high dose of sodium essential for performance."
+    },
+    {
+      "heading": "Why we made this product",
+      "body": "Hydration is critical for athletic performance, particularly in endurance sports or high-intensity activities. Electrolytes lost through sweat must be replaced to maintain fluid balance, prevent dehydration, and support muscle function. Ultra Electrolytes offers a robust dose of sodium and potassium, alongside magnesium and calcium, in a science-backed ratio designed for those engaging in physically demanding activities."
+    },
+    {
+      "heading": "Full ingredients list",
+      "body": "Sodium (Chloride) 1000mg\nPotassium (Chloride) 250mg\nMagnesium (Citrate) 100mg\nCalcium (Malate) 50mg\nNatural Sweetener (Steviol Glycosides)\nNatural Raspberry Flavouring"
+    },
+    {
+      "heading": "Frequently Asked Questions",
+      "body": "Replace text here"
+    },
+    {
+      "heading": "How to take",
+      "body": "Mix one sachet of Ultra Electrolytes Raspberry Salt with 500ml of water 30 minutes before exercise for optimal hydration. During prolonged or high-intensity activities, an additional sachet may be consumed to replace electrolytes lost through sweat. Do not exceed 2 sachets per day without consulting a medical professional."
+    },
+    {
+      "heading": "Shipping and returns",
+      "body": "Free UK Shipping on subscriptions and orders over £50.\n100% PERFORMANCE GUARANTEE. Not right for you after 30 days? No problem, we'll refund you.\nUnopened products can be returned within 21 days of delivery for a full refund. Please reference our Shipping and Returns page for more information or contact us at contact@puresport.co with any queries."
+    }
+  ],
+  "subscription": {
+    "plan": "subsave",
+    "selling_plan_id": "710958055811",
+    "banner": "GET 30% OFF YOUR FIRST ORDER, THEN 10% OFF FOREVER.",
+    "price_current": "£42.00",
+    "price_current_cents": 4200,
+    "price_compare_at": "£60.00",
+    "price_compare_at_cents": 6000,
+    "savings_breakdown": [
+      {
+        "label": "Free UK Shipping on every order",
+        "price_was": "£3.99",
+        "price_was_cents": 399,
+        "price_now": "£0.00",
+        "price_now_cents": 0
+      },
+      {
+        "label": "Save 30% on your first order",
+        "price_was": "£60.00",
+        "price_was_cents": 6000,
+        "price_now": "£42.00",
+        "price_now_cents": 4200
+      },
+      {
+        "label": "Save 10% on every future order",
+        "price_was": "£60.00",
+        "price_was_cents": 6000,
+        "price_now": "£54.00",
+        "price_now_cents": 5400
+      }
+    ],
+    "ongoing": [
+      "1 Pack, Shipped Quarterly",
+      "Save 10% on Every Order",
+      "Free Delivery on Every Order (Save £3.99)",
+      "Cancel, Pause or Skip at Anytime"
+    ],
+    "free_gift": null
+  },
+  "one_time": {
+    "price": null,
+    "price_cents": null
+  }
+}
