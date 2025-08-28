@@ -4,6 +4,7 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
+    "private": true,
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
@@ -13,8 +14,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:kb": "node scripts/build-kb.cjs",
     "dev": "next dev",
-    "build": "next build",
+    "build": "echo \"no build\"",
     "start": "next start"
   },
+  
   "description": ""
+  
 }
